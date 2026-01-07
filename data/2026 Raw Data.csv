@@ -1,0 +1,513 @@
+,match_date,competition_name,competition_category,player_name,opponent_name,winner_flag,aces,breakpoints_won,double_faults,first_serve_points_won,first_serve_successful,games_won,max_games_in_a_row,max_points_in_a_row,points_won,points_spread,second_serve_points_won,second_serve_successful,service_games_won,service_points_lost,service_points_won,tiebreaks_won,total_breakpoints,first_serve_win_perc,second_serve_win_perc,breakpoint_conversion_perc
+0,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Masarova, Rebeka","Volynets, Katie",0,7,1,2,30,45,8,3,6,60,-12,7,1,7,28,37,0,3,66.66666666666667,233.33333333333334,33.33333333333333
+1,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Volynets, Katie","Masarova, Rebeka",1,0,3,0,36,57,12,3,6,72,12,8,1,9,23,44,0,7,63.1578947368421,800.0,42.857142857142854
+2,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Bondar, Anna","Kalinina, Anhelina",1,7,4,6,24,36,13,7,9,75,8,21,32,8,29,45,1,10,66.66666666666667,55.26315789473685,40.0
+3,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Kalinina, Anhelina","Bondar, Anna",0,3,3,1,30,52,10,4,8,67,-8,8,15,7,30,38,0,7,57.69230769230769,50.0,42.857142857142854
+4,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Sramkova, Rebecca","Cabrera, Lizette",1,8,8,2,14,34,12,5,6,68,14,15,19,4,30,29,0,16,41.1764705882353,71.42857142857143,50.0
+5,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Cabrera, Lizette","Sramkova, Rebecca",0,4,5,5,9,35,6,3,5,54,-14,9,26,1,45,18,0,8,25.714285714285715,29.03225806451613,62.5
+6,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Ruzic, Antonia","Timofeeva, Maria",0,0,2,6,31,52,9,3,7,60,-16,11,20,7,36,42,0,4,59.61538461538461,42.30769230769231,50.0
+7,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Timofeeva, Maria","Ruzic, Antonia",1,3,4,1,28,38,13,3,8,76,16,12,17,9,18,40,0,11,73.6842105263158,66.66666666666666,36.36363636363637
+8,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Sharma, Astra","Rakhimova, Kamilla",0,4,1,8,16,26,4,2,3,41,-22,7,17,3,28,23,0,4,61.53846153846154,28.000000000000004,25.0
+9,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Rakhimova, Kamilla","Sharma, Astra",1,0,5,7,28,37,12,4,7,63,22,7,9,7,18,35,0,9,75.67567567567568,43.75,55.55555555555556
+10,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Tomova, Viktoriya","Sasnovich, Aliaksandra",0,4,0,3,20,34,4,1,3,41,-20,7,17,4,27,27,0,1,58.8235294117647,35.0,0.0
+11,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Sasnovich, Aliaksandra","Tomova, Viktoriya",1,6,4,1,29,36,12,3,5,61,20,5,11,8,14,34,0,7,80.55555555555556,41.66666666666667,57.14285714285714
+12,2026-01-02,United Cup,United Cup,"Munar, Jaume","Baez, Sebastian",0,7,2,0,25,39,8,2,5,60,-3,6,13,6,21,31,0,6,64.1025641025641,46.15384615384615,33.33333333333333
+13,2026-01-02,United Cup,United Cup,"Baez, Sebastian","Munar, Jaume",1,0,4,2,27,46,12,3,5,63,3,15,23,8,29,42,0,6,58.69565217391305,60.0,66.66666666666666
+14,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Zhang, Shuai","Ferro, Fiona",1,4,5,4,46,70,15,4,5,102,7,11,21,10,38,57,0,16,65.71428571428571,44.0,31.25
+15,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Ferro, Fiona","Zhang, Shuai",0,4,3,4,39,65,12,3,6,95,-7,18,33,9,45,57,0,6,60.0,48.64864864864865,50.0
+16,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Preston, Taylah","Selekhmeteva, Oksana",1,3,6,5,28,51,13,4,7,102,13,14,21,6,35,42,1,20,54.90196078431372,53.84615384615385,30.0
+17,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Selekhmeteva, Oksana","Preston, Taylah",0,4,4,9,42,78,9,3,6,89,-13,12,27,5,46,68,0,7,53.84615384615385,33.33333333333333,57.14285714285714
+18,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Putintseva, Yulia","Hon, Priscilla",1,2,5,0,29,40,12,3,7,61,15,6,14,7,19,35,0,8,72.5,42.857142857142854,62.5
+19,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Hon, Priscilla","Putintseva, Yulia",0,3,3,2,16,31,7,2,6,46,-15,11,20,4,26,27,0,6,51.61290322580645,50.0,50.0
+20,2026-01-02,United Cup,United Cup,"Bouzas Maneiro, Jessica","Sierra, Solana",0,2,4,11,25,45,11,5,5,73,-24,14,27,7,44,39,0,7,55.55555555555556,36.84210526315789,57.14285714285714
+21,2026-01-02,United Cup,United Cup,"Sierra, Solana","Bouzas Maneiro, Jessica",1,3,7,7,31,48,17,6,9,97,24,22,32,10,34,53,0,10,64.58333333333333,56.41025641025641,70.0
+22,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Jimenez Kasintseva, Victoria","Sonmez, Zeynep",0,2,4,6,28,48,13,5,5,87,-11,16,27,9,41,46,0,7,58.333333333333336,48.484848484848484,57.14285714285714
+23,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Sonmez, Zeynep","Jimenez Kasintseva, Victoria",1,4,5,3,35,51,16,5,8,98,11,17,34,10,41,57,1,7,68.62745098039215,45.94594594594595,71.42857142857143
+24,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Gadecki, Olivia","Zakharova, Anastasia",1,1,4,2,12,18,13,4,7,74,17,10,14,9,12,22,0,11,66.66666666666667,62.5,36.36363636363637
+25,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Zakharova, Anastasia","Gadecki, Olivia",0,1,2,2,11,20,8,2,9,57,-17,9,16,6,18,20,0,4,55.0,50.0,50.0
+26,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Ruse, Elena-Gabriela","Subasic, Alana",1,7,6,2,21,25,12,10,9,58,28,8,17,6,15,29,0,10,84.0,42.10526315789473,60.0
+27,2026-01-02,"WTA Brisbane, Australia Women Singles",WTA,"Subasic, Alana","Ruse, Elena-Gabriela",0,0,0,3,10,24,1,1,4,30,-28,2,9,1,29,15,0,7,41.666666666666664,16.666666666666664,0.0
+28,2026-01-02,United Cup,United Cup,Cervantes I / Cavalle-Reimers Y,Andreozzi G / Carle M L,0,3,2,2,25,42,8,2,4,54,-20,11,22,6,30,36,0,5,59.523809523809526,45.83333333333333,40.0
+29,2026-01-02,United Cup,United Cup,Andreozzi G / Carle M L,Cervantes I / Cavalle-Reimers Y,1,3,4,2,27,36,13,4,6,74,20,17,24,8,18,44,1,12,75.0,65.38461538461539,33.33333333333333
+30,2026-01-02,United Cup,United Cup,"Sakkari, Maria","Osaka, Naomi",1,3,5,0,27,41,12,4,5,64,9,7,17,7,24,34,0,9,65.85365853658537,41.17647058823529,55.55555555555556
+31,2026-01-02,United Cup,United Cup,"Osaka, Naomi","Sakkari, Maria",0,1,2,3,18,36,6,2,5,55,-9,13,22,4,30,31,0,4,50.0,52.0,50.0
+32,2026-01-02,United Cup,United Cup,"Tsitsipas, Stefanos","Mochizuki, Shintaro",1,8,3,2,28,42,12,3,8,63,8,11,17,9,22,39,0,8,66.66666666666667,57.89473684210527,37.5
+33,2026-01-02,United Cup,United Cup,"Mochizuki, Shintaro","Tsitsipas, Stefanos",0,1,1,3,22,30,7,2,5,55,-8,11,24,6,24,33,0,2,73.33333333333333,40.74074074074074,50.0
+34,2026-01-02,United Cup,United Cup,Sakkari M / Tsitsipas S,Uchiyama Y / Hibino N,1,6,3,1,28,33,12,3,7,58,23,8,10,9,8,36,0,11,84.84848484848484,72.72727272727273,27.27272727272727
+35,2026-01-02,United Cup,United Cup,Uchiyama Y / Hibino N,Sakkari M / Tsitsipas S,0,1,0,1,23,40,5,1,4,35,-23,4,8,5,22,27,0,1,57.5,44.44444444444444,0.0
+36,2026-01-02,"WTA Auckland, New Zealand Women Singles",WTA,"Guo, Hanyu","Chwalinska, Maja",0,1,1,2,23,43,4,2,5,44,-20,4,14,3,31,27,0,4,53.48837209302326,25.0,25.0
+37,2026-01-02,"WTA Auckland, New Zealand Women Singles",WTA,"Chwalinska, Maja","Guo, Hanyu",1,0,5,0,29,43,12,7,8,64,20,4,7,7,17,33,0,8,67.44186046511628,57.14285714285714,62.5
+38,2026-01-02,"WTA Auckland, New Zealand Women Singles",WTA,"Romero Gormaz, Leyre","Knutson, Gabriela",0,1,2,3,15,25,7,2,5,55,-10,13,25,5,24,28,0,12,60.0,46.42857142857143,16.666666666666664
+39,2026-01-02,"WTA Auckland, New Zealand Women Singles",WTA,"Knutson, Gabriela","Romero Gormaz, Leyre",1,2,4,4,27,43,12,5,7,65,10,14,21,8,27,41,0,5,62.7906976744186,56.00000000000001,80.0
+40,2026-01-02,"WTA Auckland, New Zealand Women Singles",WTA,"Erjavec, Veronika","Das, Aishi",1,1,7,2,27,53,12,3,6,63,12,0,1,5,27,27,0,14,50.943396226415096,0.0,50.0
+41,2026-01-02,"WTA Auckland, New Zealand Women Singles",WTA,"Das, Aishi","Erjavec, Veronika",0,0,4,6,23,58,7,2,5,51,-12,1,2,3,36,24,0,7,39.6551724137931,12.5,57.14285714285714
+42,2026-01-02,United Cup,United Cup,"Mertens, Elise","Zhu, Lin",1,5,6,2,18,26,12,4,7,56,22,12,20,6,18,30,0,8,69.23076923076923,54.54545454545454,75.0
+43,2026-01-02,United Cup,United Cup,"Zhu, Lin","Mertens, Elise",0,0,2,1,13,27,4,1,4,34,-22,3,14,2,26,16,0,5,48.148148148148145,20.0,40.0
+44,2026-01-02,"WTA Auckland, New Zealand Women Singles",WTA,"Tse, Elyse","Costoulas, Sofia",0,1,0,2,11,23,1,1,3,27,-27,6,17,1,25,17,0,0,47.82608695652174,31.57894736842105,
+45,2026-01-02,"WTA Auckland, New Zealand Women Singles",WTA,"Costoulas, Sofia","Tse, Elyse",1,2,5,1,25,28,12,7,7,54,27,4,10,7,10,29,0,8,89.28571428571429,36.36363636363637,62.5
+46,2026-01-02,"WTA Auckland, New Zealand Women Singles",WTA,"Mladenovic, Kristina","Friedsam, Anna-Lena",1,5,4,5,36,55,13,5,5,79,4,11,19,8,32,47,1,5,65.45454545454545,45.83333333333333,80.0
+47,2026-01-02,"WTA Auckland, New Zealand Women Singles",WTA,"Friedsam, Anna-Lena","Mladenovic, Kristina",0,2,3,8,26,39,10,3,8,75,-4,17,28,7,32,43,0,6,66.66666666666667,47.22222222222222,50.0
+48,2026-01-02,"WTA Auckland, New Zealand Women Singles",WTA,"Kraus, Sinja","Sevastova, Anastasija",1,3,7,4,41,53,18,4,7,107,11,19,39,11,36,60,0,15,77.35849056603773,44.18604651162791,46.666666666666664
+49,2026-01-02,"WTA Auckland, New Zealand Women Singles",WTA,"Sevastova, Anastasija","Kraus, Sinja",0,3,4,2,42,70,14,3,7,96,-11,18,35,9,47,60,1,7,60.0,48.64864864864865,57.14285714285714
+50,2026-01-03,"WTA Brisbane, Australia Women Singles",WTA,"Bondar, Anna","Volynets, Katie",1,4,5,2,30,40,14,5,6,72,16,11,10,9,21,41,0,9,75.0,91.66666666666666,55.55555555555556
+51,2026-01-03,"WTA Brisbane, Australia Women Singles",WTA,"Volynets, Katie","Bondar, Anna",0,2,2,1,30,51,8,3,6,56,-16,5,14,6,31,35,0,5,58.8235294117647,33.33333333333333,40.0
+52,2026-01-03,"WTA Brisbane, Australia Women Singles",WTA,"Timofeeva, Maria","Sasnovich, Aliaksandra",0,5,5,3,25,53,10,3,7,69,-16,12,29,5,48,37,0,8,47.16981132075472,37.5,62.5
+53,2026-01-03,"WTA Brisbane, Australia Women Singles",WTA,"Sasnovich, Aliaksandra","Timofeeva, Maria",1,4,7,4,24,39,15,5,10,85,16,12,27,8,32,37,0,14,61.53846153846154,38.70967741935484,50.0
+54,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Shevchenko, Alexander","Collignon, Raphael",0,3,2,0,20,32,9,4,4,62,-6,16,28,7,24,36,0,4,62.5,57.14285714285714,50.0
+55,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Collignon, Raphael","Shevchenko, Alexander",1,12,4,6,31,42,13,5,7,68,6,13,22,9,26,44,0,9,73.80952380952381,46.42857142857143,44.44444444444444
+56,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Carreno Busta, Pablo","Bellucci, Mattia",1,8,2,2,42,55,15,2,6,90,0,19,32,12,28,61,1,5,76.36363636363636,55.88235294117647,40.0
+57,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Bellucci, Mattia","Carreno Busta, Pablo",0,13,3,3,47,59,16,3,10,90,0,15,29,13,29,62,0,6,79.66101694915254,46.875,50.0
+58,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Cazaux, Arthur","Landaluce, Martin",1,9,3,1,30,36,12,5,12,68,25,7,9,9,9,37,0,8,83.33333333333333,70.0,37.5
+59,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Landaluce, Martin","Cazaux, Arthur",0,3,0,6,23,38,5,1,5,43,-25,11,21,4,31,34,0,0,60.526315789473685,40.74074074074074,
+60,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Quevedo, Kaitlin","Monnet, Carole",1,10,6,8,54,79,18,5,8,107,15,17,31,12,47,71,0,11,68.35443037974683,43.58974358974359,54.54545454545454
+61,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Monnet, Carole","Quevedo, Kaitlin",0,2,3,9,29,51,12,3,8,92,-15,16,22,8,36,45,1,15,56.86274509803921,51.61290322580645,20.0
+62,2026-01-03,United Cup,United Cup,"Bergs, Zizou","Zhang, Zhizhen",0,18,0,5,58,75,18,1,5,115,-4,29,46,17,39,87,1,0,77.33333333333333,56.86274509803921,
+63,2026-01-03,United Cup,United Cup,"Zhang, Zhizhen","Bergs, Zizou",1,12,1,0,59,71,20,3,7,119,4,21,37,18,28,80,1,10,83.09859154929578,56.75675675675676,10.0
+64,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Fearnley, Jacob","Sweeny, Dane",0,7,2,6,27,46,7,3,4,61,-16,7,13,5,31,34,0,5,58.69565217391305,36.84210526315789,40.0
+65,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Sweeny, Dane","Fearnley, Jacob",1,3,4,1,25,38,13,5,6,77,16,21,34,8,27,46,1,7,65.78947368421052,60.0,57.14285714285714
+66,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Ku, Yeon Woo","Charaeva, Alina",1,1,4,1,31,47,12,5,12,58,22,6,6,8,17,37,0,7,65.95744680851064,85.71428571428571,57.14285714285714
+67,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Charaeva, Alina","Ku, Yeon Woo",0,0,1,1,13,27,5,2,5,36,-22,6,12,4,21,19,0,1,48.148148148148145,46.15384615384615,100.0
+68,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Quinn, Ethan","Bonzi, Benjamin",1,10,4,0,40,49,16,3,6,91,17,11,17,11,15,51,0,14,81.63265306122449,64.70588235294117,28.57142857142857
+69,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Bonzi, Benjamin","Quinn, Ethan",0,7,2,8,44,65,12,3,6,74,-17,15,26,9,40,59,0,2,67.6923076923077,44.11764705882353,100.0
+70,2026-01-03,United Cup,United Cup,"Jeanjean, Leolia","Bencic, Belinda",0,4,1,3,21,37,6,3,5,40,-23,6,14,5,27,27,0,2,56.75675675675676,35.294117647058826,50.0
+71,2026-01-03,United Cup,United Cup,"Bencic, Belinda","Jeanjean, Leolia",1,0,4,2,28,36,12,5,11,63,23,8,11,8,13,36,0,6,77.77777777777777,61.53846153846154,66.66666666666666
+72,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Semenistaja, Darja","Brace, Cadence",1,1,5,0,39,65,12,4,9,70,16,0,0,7,26,39,0,10,60.0,,50.0
+73,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Brace, Cadence","Semenistaja, Darja",0,2,2,0,28,59,6,2,5,54,-16,0,0,4,31,28,0,3,47.45762711864407,,66.66666666666666
+74,2026-01-03,"WTA Brisbane, Australia Women Singles",WTA,"Zhang, Shuai","Preston, Taylah",1,8,6,5,45,74,16,5,6,88,13,1,1,10,30,46,0,9,60.810810810810814,16.666666666666664,66.66666666666666
+75,2026-01-03,"WTA Brisbane, Australia Women Singles",WTA,"Preston, Taylah","Zhang, Shuai",0,2,3,3,42,81,10,3,6,75,-13,3,6,7,42,45,0,5,51.851851851851855,33.33333333333333,60.0
+76,2026-01-03,"WTA Brisbane, Australia Women Singles",WTA,"Sramkova, Rebecca","Rakhimova, Kamilla",1,6,7,3,16,24,12,4,13,56,24,7,11,5,14,23,0,9,66.66666666666667,50.0,77.77777777777779
+77,2026-01-03,"WTA Brisbane, Australia Women Singles",WTA,"Rakhimova, Kamilla","Sramkova, Rebecca",0,1,2,2,9,30,3,1,5,32,-24,8,15,1,33,18,0,2,30.0,47.05882352941176,100.0
+78,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"O'Connell, Christopher","Basilashvili, Nikoloz",1,9,4,0,7,11,12,7,12,59,22,4,7,8,7,16,0,6,63.63636363636363,57.14285714285714,66.66666666666666
+79,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Basilashvili, Nikoloz","O'Connell, Christopher",0,8,1,10,4,6,5,2,4,37,-22,3,8,4,17,12,0,1,66.66666666666667,16.666666666666664,100.0
+80,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Chirico, Louisa","Osuigwe, Whitney",0,2,5,4,22,41,9,3,5,73,-10,9,15,4,44,37,0,13,53.65853658536585,47.368421052631575,38.46153846153847
+81,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Osuigwe, Whitney","Chirico, Louisa",1,2,7,3,28,56,13,4,6,83,10,5,11,5,36,39,1,14,50.0,35.714285714285715,50.0
+82,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Starodubtseva, Yuliia","Ponchet, Jessika",1,0,5,0,26,40,12,5,7,68,17,10,17,7,21,36,0,11,65.0,58.82352941176471,45.45454545454545
+83,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Ponchet, Jessika","Starodubtseva, Yuliia",0,6,2,2,22,34,6,2,5,51,-17,8,27,4,32,30,0,7,64.70588235294117,27.586206896551722,28.57142857142857
+84,2026-01-03,"WTA Brisbane, Australia Women Singles",WTA,"Putintseva, Yulia","Gadecki, Olivia",0,1,4,1,38,70,12,5,8,81,-5,10,19,8,42,48,0,6,54.285714285714285,50.0,66.66666666666666
+85,2026-01-03,"WTA Brisbane, Australia Women Singles",WTA,"Gadecki, Olivia","Putintseva, Yulia",1,3,5,5,30,41,14,5,7,86,5,14,33,9,33,44,0,14,73.17073170731707,36.84210526315789,35.714285714285715
+86,2026-01-03,United Cup,United Cup,"Rinderknech, Arthur","Wawrinka, Stan",0,17,2,5,50,61,19,3,8,118,5,32,45,17,29,82,0,4,81.9672131147541,64.0,50.0
+87,2026-01-03,United Cup,United Cup,"Wawrinka, Stan","Rinderknech, Arthur",1,6,1,2,53,68,19,3,7,113,-5,31,50,16,36,84,2,7,77.94117647058823,59.61538461538461,14.285714285714285
+88,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Atmane, Terence","Hanfmann, Yannick",1,10,2,0,31,39,13,3,10,67,10,17,24,10,15,48,1,5,79.48717948717949,70.83333333333334,40.0
+89,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Hanfmann, Yannick","Atmane, Terence",0,10,1,1,36,46,10,2,5,57,-10,6,14,8,19,42,0,2,78.26086956521739,40.0,50.0
+90,2026-01-03,United Cup,United Cup,Bergs Z / Mertens E,Zhang Z / Zhu L,0,4,5,3,37,55,13,5,8,86,13,12,24,8,33,49,0,9,67.27272727272727,44.44444444444444,55.55555555555556
+91,2026-01-03,United Cup,United Cup,Zhang Z / Zhu L,Bergs Z / Mertens E,1,3,4,0,29,58,12,5,5,73,-13,11,19,7,37,40,1,6,50.0,57.89473684210527,66.66666666666666
+92,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Schoolkate, Tristan","Duckworth, James",0,9,0,5,20,26,5,1,5,38,-21,7,19,4,23,27,0,0,76.92307692307692,29.166666666666668,
+93,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Duckworth, James","Schoolkate, Tristan",1,5,3,2,18,20,12,3,9,59,21,18,25,9,11,36,0,4,90.0,66.66666666666666,75.0
+94,2026-01-03,"WTA Brisbane, Australia Women Singles",WTA,"Ruse, Elena-Gabriela","Sonmez, Zeynep",1,3,7,7,24,35,15,8,10,77,9,9,5,8,29,41,0,12,68.57142857142857,75.0,58.333333333333336
+95,2026-01-03,"WTA Brisbane, Australia Women Singles",WTA,"Sonmez, Zeynep","Ruse, Elena-Gabriela",0,1,4,2,25,40,10,4,6,68,-9,8,3,6,36,39,0,7,62.5,160.0,57.14285714285714
+96,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Pigossi, Laura","Tagger, Lilli",0,2,4,6,35,68,11,3,5,84,-15,13,0,7,50,48,0,8,51.470588235294116,216.66666666666666,50.0
+97,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Tagger, Lilli","Pigossi, Laura",1,7,7,2,37,58,16,5,7,99,15,12,0,9,36,49,0,13,63.793103448275865,600.0,53.84615384615385
+98,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Hijikata, Rinky","Misolic, Filip",1,11,4,3,32,41,12,5,7,78,15,9,21,8,24,41,0,11,78.04878048780488,37.5,36.36363636363637
+99,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Misolic, Filip","Hijikata, Rinky",0,5,1,2,25,45,6,1,5,63,-15,14,29,5,37,39,0,7,55.55555555555556,45.16129032258064,14.285714285714285
+100,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Majchrzak, Kamil","Hewitt, Cruz",1,7,5,6,29,39,13,4,7,70,10,10,18,7,24,39,0,13,74.35897435897436,41.66666666666667,38.46153846153847
+101,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Hewitt, Cruz","Majchrzak, Kamil",0,3,3,1,29,52,9,2,5,60,-10,7,15,5,31,36,0,5,55.76923076923077,43.75,60.0
+102,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Halys, Quentin","Spizzirri, Eliot",1,10,2,2,37,45,12,4,6,66,12,11,21,10,20,48,0,5,82.22222222222223,47.82608695652174,40.0
+103,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Spizzirri, Eliot","Halys, Quentin",0,5,0,3,25,32,7,1,5,54,-12,9,17,5,18,34,0,4,78.125,45.0,0.0
+104,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Arnaldi, Matteo","Gaston, Hugo",1,10,5,5,54,76,18,3,7,113,7,16,39,8,49,70,1,13,71.05263157894737,36.36363636363637,38.46153846153847
+105,2026-01-03,"ATP Brisbane, Australia Men Singles",ATP,"Gaston, Hugo","Arnaldi, Matteo",0,4,4,1,45,68,14,3,7,106,-7,12,31,9,43,57,0,14,66.17647058823529,37.5,28.57142857142857
+106,2026-01-03,United Cup,United Cup,Roger-Vasselin E / Rakotomanga Rajaonah T S,Paul J / Bencic B,0,3,2,4,25,41,9,2,5,55,-10,10,18,7,23,35,0,7,60.97560975609756,45.45454545454545,28.57142857142857
+107,2026-01-03,United Cup,United Cup,Paul J / Bencic B,Roger-Vasselin E / Rakotomanga Rajaonah T S,1,4,3,2,35,52,11,3,6,65,10,7,10,8,20,42,0,5,67.3076923076923,58.333333333333336,60.0
+108,2026-01-03,United Cup,United Cup,"Hunter, Storm","Helgo, Malene",1,2,4,3,36,45,13,5,6,77,15,7,17,8,22,43,1,10,80.0,35.0,40.0
+109,2026-01-03,United Cup,United Cup,"Helgo, Malene","Hunter, Storm",0,2,2,3,28,47,8,3,4,62,-15,12,24,6,34,40,0,4,59.57446808510638,44.44444444444444,50.0
+110,2026-01-03,United Cup,United Cup,"de Minaur, Alex","Ruud, Casper",0,2,0,8,23,36,6,1,7,58,-16,14,22,6,29,37,0,5,63.888888888888886,46.666666666666664,0.0
+111,2026-01-03,United Cup,United Cup,"Ruud, Casper","de Minaur, Alex",1,6,3,3,37,47,12,3,6,74,16,8,16,9,21,45,0,10,78.72340425531915,42.10526315789473,30.0
+112,2026-01-03,United Cup,United Cup,"Fritz, Taylor","Baez, Sebastian",0,23,3,2,43,56,15,4,12,104,-1,21,44,12,38,64,0,11,76.78571428571429,45.65217391304348,27.27272727272727
+113,2026-01-03,United Cup,United Cup,"Baez, Sebastian","Fritz, Taylor",1,4,4,0,51,80,17,3,6,105,1,16,27,13,40,67,0,8,63.75,59.25925925925925,50.0
+114,2026-01-03,United Cup,United Cup,Smith J / Hunter S,Durasovic V / Eikeri U,1,3,3,0,25,37,10,4,6,62,13,10,14,7,16,35,0,6,67.56756756756756,71.42857142857143,50.0
+115,2026-01-03,United Cup,United Cup,Durasovic V / Eikeri U,Smith J / Hunter S,0,1,1,2,25,44,7,2,4,49,-13,8,14,6,27,33,0,8,56.81818181818182,50.0,12.5
+116,2026-01-03,United Cup,United Cup,"Gauff, Coco","Sierra, Solana",1,0,6,4,16,24,12,6,6,55,25,12,14,6,14,28,0,10,66.66666666666667,66.66666666666666,60.0
+117,2026-01-03,United Cup,United Cup,"Sierra, Solana","Gauff, Coco",0,2,1,4,13,26,2,1,4,30,-25,3,13,1,27,16,0,3,50.0,17.647058823529413,33.33333333333333
+118,2026-01-03,United Cup,United Cup,Harrison C / Gauff C,Andreozzi G / Carle M L,1,4,5,4,21,30,12,5,6,58,20,10,16,7,19,31,0,6,70.0,50.0,83.33333333333334
+119,2026-01-03,United Cup,United Cup,Andreozzi G / Carle M L,Harrison C / Gauff C,0,1,1,2,15,34,5,3,3,38,-20,4,10,4,27,19,0,6,44.11764705882353,33.33333333333333,16.666666666666664
+120,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Knutson, Gabriela","Chwalinska, Maja",1,3,4,7,29,40,12,6,6,76,14,18,33,8,33,47,0,8,72.5,45.0,50.0
+121,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Chwalinska, Maja","Knutson, Gabriela",0,2,1,1,23,41,5,2,5,62,-14,6,16,4,29,29,0,14,56.09756097560975,35.294117647058826,7.142857142857142
+122,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Erjavec, Veronika","Costoulas, Sofia",0,1,2,0,54,94,12,3,6,90,-9,0,0,10,40,54,0,5,57.4468085106383,,40.0
+123,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Costoulas, Sofia","Erjavec, Veronika",1,7,4,3,59,95,16,4,5,99,9,0,0,12,36,59,0,11,62.10526315789474,0.0,36.36363636363637
+124,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Kraus, Sinja","Mladenovic, Kristina",1,3,6,4,26,39,14,4,7,82,13,17,28,8,28,43,0,17,66.66666666666667,53.125,35.294117647058826
+125,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Mladenovic, Kristina","Kraus, Sinja",0,2,4,7,33,53,10,2,5,69,-13,8,21,6,39,41,0,10,62.264150943396224,28.57142857142857,40.0
+126,2026-01-03,United Cup,United Cup,"Lys, Eva","Lamens, Suzan",1,0,6,6,30,46,12,4,5,73,18,7,12,6,27,37,0,13,65.21739130434783,38.88888888888889,46.15384615384615
+127,2026-01-03,United Cup,United Cup,"Lamens, Suzan","Lys, Eva",0,1,2,5,18,37,4,1,5,55,-18,10,22,2,36,28,0,7,48.648648648648646,37.03703703703704,28.57142857142857
+128,2026-01-03,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Stoiana, Mary","Rame, Alice",1,0,4,1,67,113,17,3,7,111,6,3,5,12,49,70,1,6,59.29203539823009,50.0,66.66666666666666
+129,2026-01-03,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Rame, Alice","Stoiana, Mary",0,0,4,0,54,93,15,3,7,105,-6,2,4,11,41,56,0,11,58.064516129032256,50.0,36.36363636363637
+130,2026-01-03,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Hontama, Mai","Leonard, Manon",1,2,6,6,35,58,13,5,7,78,-1,11,22,7,40,46,0,10,60.3448275862069,39.285714285714285,60.0
+131,2026-01-03,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Leonard, Manon","Hontama, Mai",0,4,6,2,27,45,12,6,8,79,1,12,24,6,32,39,0,14,60.0,46.15384615384615,42.857142857142854
+132,2026-01-03,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Shymanovich, Iryna","Liang, En-Shuo",0,3,5,5,45,82,10,3,6,103,-13,11,31,5,62,56,0,16,54.8780487804878,30.555555555555557,31.25
+133,2026-01-03,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Liang, En-Shuo","Shymanovich, Iryna",1,6,8,4,48,77,16,5,9,116,13,6,20,8,47,54,0,18,62.33766233766234,25.0,44.44444444444444
+134,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Quevedo, Kaitlin","Ku, Yeon Woo",1,9,4,0,36,56,13,4,8,80,3,13,25,9,32,49,0,8,64.28571428571429,52.0,50.0
+135,2026-01-03,"WTA Auckland, New Zealand Women Singles",WTA,"Ku, Yeon Woo","Quevedo, Kaitlin",0,0,3,3,35,56,11,5,5,77,-3,10,17,8,31,45,0,9,62.5,50.0,33.33333333333333
+136,2026-01-04,"WTA Auckland, New Zealand Women Singles",WTA,"Semenistaja, Darja","Osuigwe, Whitney",0,4,5,3,45,82,13,3,8,88,-4,0,0,8,37,45,0,13,54.8780487804878,0.0,38.46153846153847
+137,2026-01-04,"WTA Auckland, New Zealand Women Singles",WTA,"Osuigwe, Whitney","Semenistaja, Darja",1,1,6,3,55,98,15,4,6,92,4,0,0,9,43,55,0,8,56.12244897959184,0.0,75.0
+138,2026-01-04,"WTA Auckland, New Zealand Women Singles",WTA,"Starodubtseva, Yuliia","Tagger, Lilli",1,1,5,1,24,29,12,7,8,59,25,8,15,7,13,32,0,9,82.75862068965517,50.0,55.55555555555556
+139,2026-01-04,"WTA Auckland, New Zealand Women Singles",WTA,"Tagger, Lilli","Starodubtseva, Yuliia",0,2,0,0,14,28,2,1,4,34,-25,7,20,2,27,21,0,4,50.0,35.0,0.0
+140,2026-01-04,"ATP Brisbane, Australia Men Singles",ATP,"Sweeny, Dane","O'Connell, Christopher",1,5,7,2,44,72,18,4,7,109,11,17,36,11,49,61,0,10,61.111111111111114,44.73684210526316,70.0
+141,2026-01-04,"ATP Brisbane, Australia Men Singles",ATP,"O'Connell, Christopher","Sweeny, Dane",0,7,5,3,40,65,14,3,7,98,-11,9,29,6,48,49,1,7,61.53846153846154,28.125,71.42857142857143
+142,2026-01-04,"WTA Brisbane, Australia Women Singles",WTA,"Jacquemot, Elsa","Tomljanovic, Ajla",0,5,1,6,15,27,4,2,4,36,-23,7,17,3,28,22,0,2,55.55555555555556,30.434782608695656,50.0
+143,2026-01-04,"WTA Brisbane, Australia Women Singles",WTA,"Tomljanovic, Ajla","Jacquemot, Elsa",1,3,5,4,23,30,12,5,7,59,23,8,11,7,14,31,0,7,76.66666666666667,53.333333333333336,71.42857142857143
+144,2026-01-04,"WTA Brisbane, Australia Women Singles",WTA,"Arango, Emiliana","Kessler, McCartney",0,0,2,3,9,44,4,3,4,54,-21,9,23,2,26,18,0,4,20.454545454545453,34.61538461538461,50.0
+145,2026-01-04,"WTA Brisbane, Australia Women Singles",WTA,"Kessler, McCartney","Arango, Emiliana",1,1,6,2,8,39,12,10,9,75,21,12,18,6,10,20,0,15,20.512820512820515,60.0,40.0
+146,2026-01-04,United Cup,United Cup,"Zverev, Alexander","Griekspoor, Tallon",1,15,4,0,32,36,13,8,13,59,27,6,12,9,10,38,0,4,88.88888888888889,50.0,100.0
+147,2026-01-04,United Cup,United Cup,"Griekspoor, Tallon","Zverev, Alexander",0,3,0,3,19,30,5,1,4,32,-27,3,10,5,21,22,0,2,63.333333333333336,23.076923076923077,0.0
+148,2026-01-04,United Cup,United Cup,"Harris, Billy","Mochizuki, Shintaro",1,4,3,3,30,41,13,3,7,75,12,16,26,9,24,46,1,4,73.17073170731707,55.172413793103445,75.0
+149,2026-01-04,United Cup,United Cup,"Mochizuki, Shintaro","Harris, Billy",0,4,2,6,21,27,9,2,5,63,-12,18,35,7,29,39,0,6,77.77777777777777,43.90243902439025,33.33333333333333
+150,2026-01-04,"WTA Brisbane, Australia Women Singles",WTA,"Kasatkina, Daria","Potapova, Anastasia",0,4,4,14,35,50,15,4,6,101,-16,11,20,11,38,46,0,9,70.0,32.35294117647059,44.44444444444444
+151,2026-01-04,"WTA Brisbane, Australia Women Singles",WTA,"Potapova, Anastasia","Kasatkina, Daria",1,6,5,4,34,50,17,3,11,117,16,13,22,12,29,47,0,15,68.0,50.0,33.33333333333333
+152,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Sakatsume, Himeno","Lee, Carol Young Suh",1,4,4,1,28,40,13,4,7,61,12,10,15,9,17,38,0,7,70.0,62.5,57.14285714285714
+153,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Lee, Carol Young Suh","Sakatsume, Himeno",0,1,1,3,22,39,7,2,8,49,-12,10,15,6,23,32,0,1,56.41025641025641,55.55555555555556,100.0
+154,2026-01-04,"WTA Brisbane, Australia Women Singles",WTA,"Cirstea, Sorana","Pavlyuchenkova, Anastasia",1,7,2,3,22,25,12,6,7,55,22,6,10,8,10,28,0,2,88.0,46.15384615384615,100.0
+155,2026-01-04,"WTA Brisbane, Australia Women Singles",WTA,"Pavlyuchenkova, Anastasia","Cirstea, Sorana",0,2,0,2,17,23,4,1,3,33,-22,3,10,6,15,20,0,0,73.91304347826087,25.0,
+156,2026-01-04,"ATP Brisbane, Australia Men Singles",ATP,"Quinn, Ethan","Collignon, Raphael",0,10,0,2,29,45,8,1,4,52,-14,12,18,8,24,41,0,1,64.44444444444444,60.0,0.0
+157,2026-01-04,"ATP Brisbane, Australia Men Singles",ATP,"Collignon, Raphael","Quinn, Ethan",1,8,3,4,32,37,13,5,6,66,14,10,13,10,11,42,0,10,86.48648648648648,58.82352941176471,30.0
+158,2026-01-04,United Cup,United Cup,Zverev A / Siegemund L,Griekspoor T / Schuurs D,1,6,4,0,29,38,12,5,7,56,22,6,7,8,10,35,0,8,76.3157894736842,85.71428571428571,50.0
+159,2026-01-04,United Cup,United Cup,Griekspoor T / Schuurs D,Zverev A / Siegemund L,0,4,1,1,20,35,5,2,4,34,-22,4,9,4,21,24,0,3,57.142857142857146,40.0,33.33333333333333
+160,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Zidansek, Tamara","Nahimana, Sada",1,0,5,0,35,54,12,6,11,64,18,0,0,7,19,35,0,7,64.81481481481481,,71.42857142857143
+161,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Nahimana, Sada","Zidansek, Tamara",0,0,2,0,27,54,6,2,6,46,-18,0,2,4,29,27,0,5,50.0,0.0,40.0
+162,2026-01-04,"ATP Brisbane, Australia Men Singles",ATP,"Atmane, Terence","Duckworth, James",0,7,1,4,30,39,8,2,6,54,-20,7,21,5,27,37,0,2,76.92307692307692,28.000000000000004,50.0
+163,2026-01-04,"ATP Brisbane, Australia Men Singles",ATP,"Duckworth, James","Atmane, Terence",1,7,3,0,33,39,13,8,9,74,20,14,25,9,17,47,1,6,84.61538461538461,56.00000000000001,50.0
+164,2026-01-04,"WTA Brisbane, Australia Women Singles",WTA,"Kenin, Sofia","Ruse, Elena-Gabriela",1,1,6,6,26,45,16,5,9,93,-2,16,23,10,32,42,0,10,57.77777777777778,55.172413793103445,60.0
+165,2026-01-04,"WTA Brisbane, Australia Women Singles",WTA,"Ruse, Elena-Gabriela","Kenin, Sofia",0,10,4,4,31,48,13,3,8,95,2,12,26,9,35,43,0,8,64.58333333333333,40.0,50.0
+166,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Ymer, Elias","Djere, Laslo",0,3,1,0,38,52,10,3,6,73,-6,15,30,9,29,53,0,3,73.07692307692308,50.0,33.33333333333333
+167,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Djere, Laslo","Ymer, Elias",1,2,2,3,33,43,13,3,8,79,6,17,24,9,20,50,1,9,76.74418604651163,62.96296296296296,22.22222222222222
+168,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Zhou, Yi","Maestrelli, Francesco",1,4,4,0,29,39,12,7,8,58,22,7,12,8,15,36,0,7,74.35897435897436,58.333333333333336,57.14285714285714
+169,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Maestrelli, Francesco","Zhou, Yi",0,3,0,1,12,22,3,1,3,36,-22,9,20,3,22,21,0,6,54.54545454545455,42.857142857142854,0.0
+170,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Tabilo, Alejandro","Van Assche, Luca",1,9,7,2,47,65,16,3,8,101,7,8,31,8,43,55,1,13,72.3076923076923,24.242424242424242,53.84615384615385
+171,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Van Assche, Luca","Tabilo, Alejandro",0,6,7,9,40,62,15,3,6,94,-7,11,26,8,46,51,0,13,64.51612903225806,31.428571428571427,53.84615384615385
+172,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Alame, Renee","Bulgaru, Miriam Bianca",0,1,2,3,15,34,5,2,4,36,-21,4,7,3,25,19,0,4,44.11764705882353,40.0,50.0
+173,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Bulgaru, Miriam Bianca","Alame, Renee",1,3,5,1,26,34,12,4,10,57,21,6,15,7,17,32,0,6,76.47058823529412,37.5,83.33333333333334
+174,2026-01-04,"ATP Brisbane, Australia Men Singles",ATP,"Majchrzak, Kamil","Halys, Quentin",0,9,2,0,44,54,16,5,10,101,16,21,34,13,23,65,0,5,81.48148148148148,61.76470588235294,40.0
+175,2026-01-04,"ATP Brisbane, Australia Men Singles",ATP,"Halys, Quentin","Majchrzak, Kamil",1,19,1,5,50,62,14,3,6,85,-16,12,31,12,36,62,1,5,80.64516129032258,33.33333333333333,20.0
+176,2026-01-04,United Cup,United Cup,"Swan, Katie","Osaka, Naomi",0,4,1,2,29,50,7,3,5,58,-22,15,31,6,39,44,0,3,58.0,45.45454545454545,33.33333333333333
+177,2026-01-04,United Cup,United Cup,"Osaka, Naomi","Swan, Katie",1,6,4,1,29,37,13,4,8,80,22,12,17,8,14,41,1,15,78.37837837837837,66.66666666666666,26.666666666666668
+178,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Guillen, Giselle Isabella","Pridankina, Elena",0,0,2,5,20,40,5,2,5,59,-17,11,22,3,36,31,0,10,50.0,40.74074074074074,20.0
+179,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Pridankina, Elena","Guillen, Giselle Isabella",1,3,6,11,33,47,12,5,8,76,17,7,11,6,28,40,0,13,70.2127659574468,31.818181818181817,46.15384615384615
+180,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Webb, Stefani","Shibahara, Ena",0,0,2,7,24,42,7,3,5,58,-22,12,16,5,33,36,0,6,57.142857142857146,52.17391304347826,33.33333333333333
+181,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Shibahara, Ena","Webb, Stefani",1,4,4,3,30,38,13,6,8,80,22,17,24,8,22,47,1,11,78.94736842105263,62.96296296296296,36.36363636363637
+182,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Iatcenko, Polina","Wei, Sijia",1,3,5,4,37,55,12,4,8,78,19,15,0,7,36,50,0,11,67.27272727272727,375.0,45.45454545454545
+183,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Wei, Sijia","Iatcenko, Polina",0,0,2,2,17,37,6,2,5,59,-19,6,0,4,28,23,0,15,45.945945945945944,300.0,13.333333333333334
+184,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Parrizas Diaz, Nuria","Kalieva, Elvina",0,1,1,6,22,43,5,3,3,51,-22,12,2,4,38,34,0,4,51.16279069767442,150.0,25.0
+185,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Kalieva, Elvina","Parrizas Diaz, Nuria",1,8,5,3,25,31,12,5,9,73,22,10,3,7,17,35,0,9,80.64516129032258,166.66666666666669,55.55555555555556
+186,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Garin, Cristian","Mmoh, Michael",0,10,2,3,29,39,14,3,5,82,-7,21,32,12,23,50,0,5,74.35897435897436,60.0,40.0
+187,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Mmoh, Michael","Garin, Cristian",1,9,3,7,48,62,16,3,9,89,7,18,29,12,32,66,0,3,77.41935483870968,50.0,100.0
+188,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Sachko, Vitaliy","Kypson, Patrick",0,8,1,3,23,36,5,1,5,54,-16,5,15,4,26,28,0,8,63.888888888888886,27.77777777777778,12.5
+189,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Kypson, Patrick","Sachko, Vitaliy",1,12,4,2,31,44,12,3,7,70,16,13,24,8,26,44,0,8,70.45454545454545,50.0,50.0
+190,2026-01-04,"WTA Brisbane, Australia Women Singles",WTA,"Cristian, Jaqueline","Bouzkova, Marie",0,0,2,3,19,31,7,2,4,48,-16,6,11,5,20,25,0,3,61.29032258064516,42.857142857142854,66.66666666666666
+191,2026-01-04,"WTA Brisbane, Australia Women Singles",WTA,"Bouzkova, Marie","Cristian, Jaqueline",1,6,5,1,22,30,12,3,7,64,16,7,11,7,13,29,0,11,73.33333333333333,58.333333333333336,45.45454545454545
+192,2026-01-04,United Cup,United Cup,"Mboko, Victoria","Zhu, Lin",1,9,6,4,37,51,14,8,7,76,18,5,12,8,25,42,0,11,72.54901960784314,31.25,54.54545454545454
+193,2026-01-04,United Cup,United Cup,"Zhu, Lin","Mboko, Victoria",0,0,3,1,26,51,8,4,6,58,-18,7,15,5,34,33,0,6,50.98039215686274,43.75,50.0
+194,2026-01-04,United Cup,United Cup,Skupski N / Nicholls O,Uchiyama Y / Hibino N,1,3,1,1,34,44,11,3,5,69,5,15,22,10,18,49,0,1,77.27272727272727,65.21739130434783,100.0
+195,2026-01-04,United Cup,United Cup,Uchiyama Y / Hibino N,Skupski N / Nicholls O,0,5,1,1,37,50,11,3,5,64,-5,9,15,10,20,46,0,3,74.0,56.25,33.33333333333333
+196,2026-01-04,"ATP Brisbane, Australia Men Singles",ATP,"Vukic, Aleksandar","Tiafoe, Frances",0,3,0,3,16,29,4,1,4,29,-27,6,14,4,24,22,0,0,55.172413793103445,35.294117647058826,
+197,2026-01-04,"ATP Brisbane, Australia Men Singles",ATP,"Tiafoe, Frances","Vukic, Aleksandar",1,3,4,0,23,29,12,3,7,56,27,9,10,6,7,32,0,6,79.3103448275862,90.0,66.66666666666666
+198,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Nava, Emilio","Thompson, Kai",1,5,4,1,26,33,12,5,8,62,24,10,14,8,12,36,0,7,78.78787878787878,66.66666666666666,57.14285714285714
+199,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Thompson, Kai","Nava, Emilio",0,2,1,4,19,34,5,1,3,38,-24,7,14,4,26,26,0,4,55.88235294117647,38.88888888888889,25.0
+200,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Struff, Jan-Lennard","Piros, Zsombor",1,7,3,0,37,50,14,3,13,87,16,13,23,7,23,50,1,7,74.0,56.52173913043478,42.857142857142854
+201,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Piros, Zsombor","Struff, Jan-Lennard",0,5,2,2,36,60,11,2,4,71,-16,12,24,5,37,48,0,3,60.0,46.15384615384615,66.66666666666666
+202,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Basavareddy, Nishesh","Bu, Yunchaokete",1,9,1,2,38,47,13,3,7,72,8,15,27,10,23,53,1,2,80.85106382978724,51.724137931034484,50.0
+203,2026-01-04,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Bu, Yunchaokete","Basavareddy, Nishesh",0,10,0,2,27,36,9,2,5,64,-8,14,22,9,19,41,0,3,75.0,58.333333333333336,0.0
+204,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Kostovic, Teodora","Rosatello, Camilla",1,2,4,2,25,33,12,5,9,65,20,10,13,8,14,35,0,9,75.75757575757575,66.66666666666666,44.44444444444444
+205,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Rosatello, Camilla","Kostovic, Teodora",0,4,0,3,14,28,4,1,4,45,-20,17,25,4,30,31,0,4,50.0,60.71428571428571,0.0
+206,2026-01-04,United Cup,United Cup,"Auger-Aliassime, Felix","Zhang, Zhizhen",1,6,2,0,32,37,12,3,9,62,14,10,18,10,13,42,0,2,86.48648648648648,55.55555555555556,100.0
+207,2026-01-04,United Cup,United Cup,"Zhang, Zhizhen","Auger-Aliassime, Felix",0,2,0,2,23,34,8,1,4,48,-14,12,19,8,20,35,0,1,67.6470588235294,57.14285714285714,0.0
+208,2026-01-04,"ATP Brisbane, Australia Men Singles",ATP,"Ugo Carabelli, Camilo","Tien, Learner",0,2,1,2,30,40,9,2,8,57,-13,12,25,7,24,42,0,1,75.0,44.44444444444444,100.0
+209,2026-01-04,"ATP Brisbane, Australia Men Singles",ATP,"Tien, Learner","Ugo Carabelli, Camilo",1,1,2,2,30,39,13,3,9,70,13,16,20,9,15,46,1,7,76.92307692307692,72.72727272727273,28.57142857142857
+210,2026-01-04,United Cup,United Cup,"Paolini, Jasmine","Bencic, Belinda",0,4,3,3,28,56,7,2,7,67,-14,13,26,4,44,41,0,6,50.0,44.827586206896555,50.0
+211,2026-01-04,United Cup,United Cup,"Bencic, Belinda","Paolini, Jasmine",1,0,6,1,30,49,12,3,6,81,14,7,13,6,26,37,0,17,61.224489795918366,50.0,35.294117647058826
+212,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Gorgodze, Ekaterine","Janicijevic, Selena",1,1,5,0,28,43,12,5,5,72,13,6,2,7,22,34,0,17,65.11627906976744,300.0,29.411764705882355
+213,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Janicijevic, Selena","Gorgodze, Ekaterine",0,2,2,7,24,41,6,3,5,59,-13,13,6,4,38,37,0,2,58.53658536585366,100.0,100.0
+214,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Branstine, Carson","Zvonareva, Vera",0,0,2,3,11,35,3,1,3,36,-27,10,15,1,38,21,0,4,31.428571428571427,55.55555555555556,50.0
+215,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Zvonareva, Vera","Branstine, Carson",1,0,7,0,16,24,12,8,13,63,27,9,14,5,15,25,0,13,66.66666666666667,64.28571428571429,53.84615384615385
+216,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Shimizu, Ayano","Prozorova, Tatiana",0,0,2,3,22,37,6,3,4,48,-23,5,15,4,30,27,0,3,59.45945945945946,27.77777777777778,66.66666666666666
+217,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Prozorova, Tatiana","Shimizu, Ayano",1,2,5,4,32,44,13,7,9,71,23,8,12,8,21,41,0,7,72.72727272727273,50.0,71.42857142857143
+218,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Rokusek, Sarah","Koevermans, Anouk",0,0,1,4,8,23,1,1,3,22,-30,3,14,0,30,11,0,4,34.78260869565217,16.666666666666664,25.0
+219,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Koevermans, Anouk","Rokusek, Sarah",1,1,7,4,13,16,12,11,8,52,30,9,13,5,11,22,0,11,81.25,52.94117647058824,63.63636363636363
+220,2026-01-04,United Cup,United Cup,Auger-Aliassime F / Mboko V,TE R / You X,1,3,4,2,22,29,12,4,5,51,15,10,14,8,13,32,0,5,75.86206896551724,62.5,80.0
+221,2026-01-04,United Cup,United Cup,TE R / You X,Auger-Aliassime F / Mboko V,0,1,0,1,19,26,4,1,7,36,-15,4,15,4,19,23,0,6,73.07692307692308,25.0,0.0
+222,2026-01-04,United Cup,United Cup,"Cobolli, Flavio","Wawrinka, Stan",1,8,1,1,41,55,19,3,6,102,-1,33,45,17,27,74,1,4,74.54545454545455,71.73913043478261,25.0
+223,2026-01-04,United Cup,United Cup,"Wawrinka, Stan","Cobolli, Flavio",0,8,0,3,49,61,17,1,5,103,1,27,40,16,28,76,1,0,80.32786885245902,62.7906976744186,
+224,2026-01-04,United Cup,United Cup,Vavassori A / Errani S,Paul J / Bencic B,0,4,5,2,28,50,11,3,9,71,0,8,15,6,31,36,0,13,56.0,47.05882352941176,38.46153846153847
+225,2026-01-04,United Cup,United Cup,Paul J / Bencic B,Vavassori A / Errani S,1,2,5,1,33,54,11,2,9,71,0,7,20,6,35,40,0,7,61.111111111111114,33.33333333333333,71.42857142857143
+226,2026-01-04,"WTA Auckland, New Zealand Women Singles",WTA,"Udvardy, Panna","Bejlek, Sara",0,1,1,1,23,36,6,3,5,48,-7,6,3,5,26,29,0,3,63.888888888888886,150.0,33.33333333333333
+227,2026-01-04,"WTA Auckland, New Zealand Women Singles",WTA,"Bejlek, Sara","Udvardy, Panna",1,1,3,2,26,32,13,5,7,55,7,3,0,9,19,29,0,9,81.25,150.0,33.33333333333333
+228,2026-01-04,"WTA Auckland, New Zealand Women Singles",WTA,"Jovic, Iva","Knutson, Gabriela",1,1,5,1,32,46,16,7,11,77,28,15,19,11,19,47,0,6,69.56521739130434,75.0,83.33333333333334
+229,2026-01-04,"WTA Auckland, New Zealand Women Singles",WTA,"Knutson, Gabriela","Jovic, Iva",0,1,1,4,21,32,7,3,4,49,-28,9,24,6,30,30,0,3,65.625,32.142857142857146,33.33333333333333
+230,2026-01-04,United Cup,United Cup,"Krejcikova, Barbora","Helgo, Malene",1,8,4,8,31,35,12,4,7,70,13,10,23,8,25,41,0,7,88.57142857142857,32.25806451612903,57.14285714285714
+231,2026-01-04,United Cup,United Cup,"Helgo, Malene","Krejcikova, Barbora",0,2,2,2,21,33,7,3,6,57,-13,11,26,5,29,32,0,3,63.63636363636363,39.285714285714285,66.66666666666666
+232,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Vandewinkel, Hanne","Yuan, Yue",0,6,0,4,27,29,7,1,6,49,-14,6,19,7,19,33,0,2,93.10344827586206,26.08695652173913,0.0
+233,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Yuan, Yue","Vandewinkel, Hanne",1,2,2,2,27,32,12,3,9,63,14,17,26,10,16,44,0,3,84.375,60.71428571428571,66.66666666666666
+234,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Liang, En-Shuo","Hontama, Mai",1,3,5,3,19,23,12,9,7,59,20,10,15,7,12,29,0,13,82.6086956521739,55.55555555555556,38.46153846153847
+235,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Hontama, Mai","Liang, En-Shuo",0,1,1,3,20,40,4,2,7,39,-20,7,14,3,30,27,0,1,50.0,41.17647058823529,100.0
+236,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Sakatsume, Himeno","Stoiana, Mary",1,4,6,1,32,53,13,5,8,73,17,11,19,7,30,43,0,9,60.37735849056604,55.00000000000001,66.66666666666666
+237,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Stoiana, Mary","Sakatsume, Himeno",0,0,3,2,19,31,7,2,5,56,-17,7,23,4,30,26,0,9,61.29032258064516,28.000000000000004,33.33333333333333
+238,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Zidansek, Tamara","Bulgaru, Miriam Bianca",1,1,5,5,18,23,12,4,9,60,22,13,15,7,12,31,0,5,78.26086956521739,65.0,100.0
+239,2026-01-04,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Bulgaru, Miriam Bianca","Zidansek, Tamara",0,1,1,5,17,30,5,3,6,38,-22,8,19,4,29,25,0,2,56.666666666666664,33.33333333333333,50.0
+240,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Costoulas, Sofia","Osuigwe, Whitney",1,3,3,2,29,38,15,5,6,71,2,9,0,10,26,38,0,5,76.3157894736842,450.0,60.0
+241,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Osuigwe, Whitney","Costoulas, Sofia",0,3,3,3,34,54,11,4,4,69,-2,9,1,8,33,43,0,4,62.96296296296296,225.0,75.0
+242,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Wang, Xinyu","McNally, Catherine",1,5,4,2,30,45,15,4,8,74,0,3,23,10,26,33,0,13,66.66666666666667,12.0,30.76923076923077
+243,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"McNally, Catherine","Wang, Xinyu",0,3,4,5,39,61,14,6,9,74,0,9,26,9,41,48,0,5,63.9344262295082,29.03225806451613,80.0
+244,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Vacherot, Valentin","Korda, Sebastian",0,9,1,2,30,46,9,3,6,61,-14,13,21,8,26,43,0,4,65.21739130434783,56.52173913043478,25.0
+245,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Korda, Sebastian","Vacherot, Valentin",1,10,2,5,37,46,13,5,8,75,14,12,16,10,18,49,1,9,80.43478260869566,57.14285714285714,22.22222222222222
+246,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Birrell, Kimberly","Sramkova, Rebecca",1,5,4,6,47,74,15,5,7,92,5,9,12,11,34,56,0,8,63.513513513513516,50.0,50.0
+247,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Sramkova, Rebecca","Birrell, Kimberly",0,5,3,5,44,66,13,3,7,87,-5,9,18,10,36,53,0,8,66.66666666666667,39.130434782608695,37.5
+248,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Zhang, Shuai","Krueger, Ashlyn",1,3,3,2,50,68,17,3,6,101,7,12,20,14,28,62,0,8,73.52941176470588,54.54545454545454,37.5
+249,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Krueger, Ashlyn","Zhang, Shuai",0,15,2,3,51,71,15,3,5,94,-7,15,32,13,39,66,0,6,71.83098591549296,42.857142857142854,33.33333333333333
+250,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Iatcenko, Polina","Shibahara, Ena",1,3,2,3,30,40,17,5,6,76,6,15,28,9,26,45,1,6,75.0,48.38709677419355,33.33333333333333
+251,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Shibahara, Ena","Iatcenko, Polina",0,5,3,7,30,45,14,3,7,70,-6,14,23,10,31,44,0,7,66.66666666666667,46.666666666666664,42.857142857142854
+252,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Waltert, Simona","Salkova, Dominika",1,3,7,10,36,51,19,5,10,124,13,21,39,10,43,57,1,23,70.58823529411765,42.857142857142854,30.434782608695656
+253,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Salkova, Dominika","Waltert, Simona",0,2,5,16,44,76,15,4,7,111,-13,24,43,9,67,68,1,7,57.89473684210526,40.67796610169492,71.42857142857143
+254,2026-01-05,United Cup,United Cup,"Mensik, Jakub","Ruud, Casper",1,16,3,3,40,51,14,3,7,85,8,13,29,10,30,53,1,6,78.43137254901961,40.625,50.0
+255,2026-01-05,United Cup,United Cup,"Ruud, Casper","Mensik, Jakub",0,1,2,1,25,45,11,3,7,77,-8,22,33,9,32,47,0,7,55.55555555555556,64.70588235294117,28.57142857142857
+256,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Kostovic, Teodora","Pridankina, Elena",1,11,6,7,50,70,19,4,9,133,16,24,41,13,44,74,0,20,71.42857142857143,50.0,30.0
+257,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Pridankina, Elena","Kostovic, Teodora",0,8,3,11,50,77,14,2,6,117,-16,23,44,10,59,73,1,10,64.93506493506493,41.81818181818181,30.0
+258,2026-01-05,United Cup,United Cup,"Gauff, Coco","Bouzas Maneiro, Jessica",0,1,3,14,29,49,8,4,4,80,-25,6,18,4,46,35,1,7,59.183673469387756,18.75,42.857142857142854
+259,2026-01-05,United Cup,United Cup,"Bouzas Maneiro, Jessica","Gauff, Coco",1,3,9,8,37,62,18,6,6,105,25,22,34,9,45,59,0,12,59.67741935483871,52.38095238095239,75.0
+260,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Zvonareva, Vera","Kalieva, Elvina",0,1,4,9,39,67,11,4,7,96,-18,18,39,7,58,57,0,11,58.208955223880594,37.5,36.36363636363637
+261,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Kalieva, Elvina","Zvonareva, Vera",1,3,7,4,33,45,17,3,10,114,18,23,46,10,39,56,0,15,73.33333333333333,46.0,46.666666666666664
+262,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Duckworth, James","Michelsen, Alex",0,10,0,7,45,55,16,3,4,100,-8,25,37,15,29,70,1,6,81.81818181818181,56.81818181818182,0.0
+263,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Michelsen, Alex","Duckworth, James",1,19,1,2,60,76,19,3,10,108,8,19,31,16,30,79,1,3,78.94736842105263,57.57575757575758,33.33333333333333
+264,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Gadecki, Olivia","Li, Ann",1,2,4,2,34,53,12,4,7,74,9,10,20,8,31,44,0,8,64.15094339622641,45.45454545454545,50.0
+265,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Li, Ann","Gadecki, Olivia",0,2,2,0,23,37,8,2,5,65,-9,11,27,6,30,34,0,10,62.16216216216216,40.74074074074074,20.0
+266,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Tabilo, Alejandro","Zhou, Yi",1,2,2,2,45,59,16,3,5,84,4,14,24,13,26,59,0,4,76.27118644067797,53.84615384615385,50.0
+267,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Zhou, Yi","Tabilo, Alejandro",0,10,1,1,38,53,13,2,6,80,-4,16,25,10,25,54,0,2,71.69811320754717,61.53846153846154,50.0
+268,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Mmoh, Michael","Kypson, Patrick",1,15,3,3,48,62,15,3,7,87,6,11,20,12,26,59,0,11,77.41935483870968,47.82608695652174,27.27272727272727
+269,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Kypson, Patrick","Mmoh, Michael",0,9,1,2,44,61,12,3,5,81,-6,11,20,10,28,55,0,4,72.1311475409836,50.0,25.0
+270,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Quevedo, Kaitlin","Stearns, Peyton",1,4,4,2,26,33,13,3,7,59,15,10,1,8,16,36,0,5,78.78787878787878,333.33333333333337,80.0
+271,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Stearns, Peyton","Quevedo, Kaitlin",0,2,2,6,18,25,7,3,5,44,-15,10,0,5,23,28,0,3,72.0,166.66666666666669,66.66666666666666
+272,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Bondar, Anna","Bucsa, Cristina",0,10,4,5,36,56,14,3,7,101,0,25,48,10,48,61,0,5,64.28571428571429,47.16981132075472,80.0
+273,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Bucsa, Cristina","Bondar, Anna",1,3,5,1,42,68,17,5,5,101,0,11,24,11,40,53,1,12,61.76470588235294,44.0,41.66666666666667
+274,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Lehecka, Jiri","Machac, Tomas",1,8,3,0,50,63,18,3,5,108,19,16,25,14,22,66,0,5,79.36507936507937,64.0,60.0
+275,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Machac, Tomas","Lehecka, Jiri",0,8,0,5,50,71,13,2,4,89,-19,17,33,12,42,67,1,2,70.4225352112676,44.73684210526316,0.0
+276,2026-01-05,United Cup,United Cup,Pavlasek A / Krejcikova B,Durasovic V / Eikeri U,1,2,3,2,34,47,13,3,8,60,11,6,7,10,16,40,0,6,72.34042553191489,66.66666666666666,50.0
+277,2026-01-05,United Cup,United Cup,Durasovic V / Eikeri U,Pavlasek A / Krejcikova B,0,2,0,1,31,45,7,1,5,49,-11,2,7,7,20,33,0,4,68.88888888888889,25.0,0.0
+278,2026-01-05,United Cup,United Cup,"Fritz, Taylor","Munar, Jaume",1,16,0,7,60,75,17,1,5,114,-6,18,30,15,34,78,2,2,80.0,48.64864864864865,0.0
+279,2026-01-05,United Cup,United Cup,"Munar, Jaume","Fritz, Taylor",0,14,1,5,62,74,18,3,6,120,6,24,43,17,36,86,0,6,83.78378378378379,50.0,16.666666666666664
+280,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Majchrzak, Kamil","Altmaier, Daniel",1,7,4,1,33,37,13,8,8,67,22,6,15,8,14,39,1,9,89.1891891891892,37.5,44.44444444444444
+281,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Altmaier, Daniel","Majchrzak, Kamil",0,7,1,5,24,37,6,3,7,45,-22,7,17,5,28,31,0,1,64.86486486486487,31.818181818181817,100.0
+282,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Putintseva, Yulia","Baptiste, Hailey",1,3,4,0,29,48,12,5,5,63,12,10,12,8,21,39,0,8,60.416666666666664,83.33333333333334,50.0
+283,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Baptiste, Hailey","Putintseva, Yulia",0,3,1,2,20,36,6,3,5,51,-12,10,16,5,24,30,0,4,55.55555555555556,55.55555555555556,25.0
+284,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Kraus, Sinja","Grabher, Julia",1,2,4,1,26,29,12,4,7,63,17,11,26,8,19,37,0,5,89.65517241379311,40.74074074074074,80.0
+285,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Grabher, Julia","Kraus, Sinja",0,4,1,2,17,32,6,2,4,46,-17,10,19,5,26,27,0,5,53.125,47.61904761904761,20.0
+286,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Gasanova, Anastasia","Prozorova, Tatiana",0,0,2,7,25,53,5,3,11,40,-17,0,0,3,28,25,0,3,47.16981132075472,0.0,66.66666666666666
+287,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Prozorova, Tatiana","Gasanova, Anastasia",1,3,5,2,29,44,12,8,6,57,17,0,0,7,15,29,0,7,65.9090909090909,0.0,71.42857142857143
+288,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Struff, Jan-Lennard","Basavareddy, Nishesh",1,14,2,0,35,39,13,3,5,73,17,12,21,10,13,47,1,7,89.74358974358974,57.14285714285714,28.57142857142857
+289,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Basavareddy, Nishesh","Struff, Jan-Lennard",0,7,0,8,30,38,8,1,3,56,-17,13,23,6,26,43,0,3,78.94736842105263,41.935483870967744,0.0
+290,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Nava, Emilio","Djere, Laslo",0,4,2,1,42,68,11,3,6,81,-12,11,24,8,40,53,0,7,61.76470588235294,44.0,28.57142857142857
+291,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Djere, Laslo","Nava, Emilio",1,5,3,3,38,52,14,3,7,93,12,15,26,8,28,53,1,9,73.07692307692308,51.724137931034484,33.33333333333333
+292,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Dzumhur, Damir","Borges, Nuno",0,1,2,5,24,42,7,2,4,55,-10,11,22,5,34,35,0,5,57.142857142857146,40.74074074074074,40.0
+293,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Borges, Nuno","Dzumhur, Damir",1,5,5,1,27,40,12,4,6,65,10,4,10,6,20,31,0,8,67.5,36.36363636363637,62.5
+294,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Gorgodze, Ekaterine","Koevermans, Anouk",1,1,6,1,54,92,17,4,10,101,8,9,16,11,46,63,0,9,58.69565217391305,52.94117647058824,66.66666666666666
+295,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Koevermans, Anouk","Gorgodze, Ekaterine",0,8,5,10,35,60,14,3,10,93,-8,12,19,9,38,47,0,16,58.333333333333336,41.37931034482759,31.25
+296,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Sasnovich, Aliaksandra","Blinkova, Anna",1,0,7,3,23,34,13,8,12,71,23,6,11,6,18,29,0,13,67.6470588235294,42.857142857142854,53.84615384615385
+297,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Blinkova, Anna","Sasnovich, Aliaksandra",0,0,3,6,19,44,6,3,4,48,-23,11,22,3,42,30,0,5,43.18181818181818,39.285714285714285,60.0
+298,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Jones, Francesca","Navarro, Emma",1,1,6,6,36,61,15,4,6,86,-7,15,27,9,43,51,0,13,59.01639344262295,45.45454545454545,46.15384615384615
+299,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Navarro, Emma","Jones, Francesca",0,4,6,4,40,63,15,4,9,93,7,10,18,9,35,50,0,12,63.492063492063494,45.45454545454545,50.0
+300,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Brengle, Madison","Uchijima, Moyuka",0,0,5,3,25,55,8,3,6,67,-12,4,8,3,37,29,0,15,45.45454545454545,36.36363636363637,33.33333333333333
+301,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Uchijima, Moyuka","Brengle, Madison",1,2,7,5,30,44,12,4,9,79,12,12,31,5,38,42,0,9,68.18181818181819,33.33333333333333,77.77777777777779
+302,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Popyrin, Alexei","Halys, Quentin",0,13,1,2,42,55,14,3,6,75,-13,15,27,13,27,57,0,2,76.36363636363636,51.724137931034484,50.0
+303,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Halys, Quentin","Popyrin, Alexei",1,15,2,2,52,58,17,3,11,88,13,9,19,15,18,61,0,5,89.65517241379311,42.857142857142854,40.0
+304,2026-01-05,United Cup,United Cup,"Zverev, Alexander","Hurkacz, Hubert",0,7,0,0,25,40,7,1,5,50,-9,6,6,7,15,31,0,1,62.5,100.0,0.0
+305,2026-01-05,United Cup,United Cup,"Hurkacz, Hubert","Zverev, Alexander",1,21,2,0,35,41,12,3,5,59,9,9,22,10,19,44,0,3,85.36585365853658,40.909090909090914,66.66666666666666
+306,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Opelka, Reilly","Sweeny, Dane",1,21,2,2,36,45,13,3,5,69,15,7,7,11,11,43,0,8,80.0,77.77777777777779,25.0
+307,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Sweeny, Dane","Opelka, Reilly",0,2,0,4,33,43,8,1,4,54,-15,10,21,7,25,43,0,0,76.74418604651163,40.0,
+308,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Cilic, Marin","Mannarino, Adrian",1,9,3,3,26,29,12,5,10,61,17,13,24,9,17,39,0,6,89.65517241379311,48.148148148148145,50.0
+309,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Mannarino, Adrian","Cilic, Marin",0,0,0,0,22,36,5,1,5,44,-17,5,13,5,22,27,0,1,61.111111111111114,38.46153846153847,0.0
+310,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Valentova, Tereza","Kalinskaya, Anna",0,4,3,2,20,30,8,2,4,62,-11,7,21,5,26,27,0,8,66.66666666666667,30.434782608695656,37.5
+311,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Kalinskaya, Anna","Valentova, Tereza",1,2,5,2,38,58,12,3,7,73,11,9,21,7,34,47,0,6,65.51724137931035,39.130434782608695,83.33333333333334
+312,2026-01-05,United Cup,United Cup,"Lys, Eva","Swiatek, Iga",0,0,7,6,35,68,13,4,5,91,-11,15,32,6,56,50,0,13,51.470588235294116,39.473684210526315,53.84615384615385
+313,2026-01-05,United Cup,United Cup,"Swiatek, Iga","Lys, Eva",1,6,8,2,30,56,15,6,8,102,11,16,29,7,41,46,0,18,53.57142857142857,51.61290322580645,44.44444444444444
+314,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Yastremska, Dayana","Gibson, Talia",1,1,5,4,24,41,14,2,7,87,8,13,23,5,31,37,2,7,58.53658536585366,48.148148148148145,71.42857142857143
+315,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Gibson, Talia","Yastremska, Dayana",0,7,5,5,23,37,12,3,6,79,-8,13,28,6,34,36,0,9,62.16216216216216,39.39393939393939,55.55555555555556
+316,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Tararudee, Lanlana","Smith, Tina Nadine",1,3,6,2,22,30,12,11,5,65,20,13,28,6,25,35,0,10,73.33333333333333,43.333333333333336,60.0
+317,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Smith, Tina Nadine","Tararudee, Lanlana",0,1,2,1,17,32,4,2,5,45,-20,3,17,2,30,20,0,11,53.125,16.666666666666664,18.181818181818183
+318,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Medvedev, Daniil","Fucsovics, Marton",1,4,6,2,22,28,12,3,6,59,19,6,12,6,14,28,0,10,78.57142857142857,42.857142857142854,60.0
+319,2026-01-05,"ATP Brisbane, Australia Men Singles",ATP,"Fucsovics, Marton","Medvedev, Daniil",0,0,2,2,19,36,5,1,4,40,-19,7,19,3,31,26,0,4,52.77777777777778,33.33333333333333,50.0
+320,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Stephens, Sloane","Zarazua, Renata",0,1,4,1,43,78,13,3,7,85,-12,13,26,9,49,56,0,6,55.12820512820513,48.148148148148145,66.66666666666666
+321,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Zarazua, Renata","Stephens, Sloane",1,0,6,1,39,60,17,6,6,97,12,9,16,11,29,48,0,12,65.0,52.94117647058824,50.0
+322,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Vondrousova, Marketa","Frech, Magdalena",0,11,2,9,68,87,18,3,6,142,-4,18,40,15,50,86,1,19,78.16091954022988,36.734693877551024,10.526315789473683
+323,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Frech, Magdalena","Vondrousova, Marketa",1,1,3,4,61,92,20,5,9,146,4,30,53,16,54,85,1,16,66.30434782608695,52.63157894736842,18.75
+324,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Wu, Yibing","Marozsan, Fabian",1,2,3,0,31,40,12,5,8,61,10,10,23,9,22,41,0,5,77.5,43.47826086956522,60.0
+325,2026-01-05,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Marozsan, Fabian","Wu, Yibing",0,2,0,1,21,30,6,1,5,51,-10,8,18,6,20,29,0,3,70.0,42.10526315789473,0.0
+326,2026-01-05,United Cup,United Cup,"Harris, Billy","Tsitsipas, Stefanos",0,4,1,3,40,51,13,2,6,77,-13,17,29,12,26,57,0,2,78.43137254901961,53.125,50.0
+327,2026-01-05,United Cup,United Cup,"Tsitsipas, Stefanos","Harris, Billy",1,5,2,2,46,54,17,5,7,90,13,18,28,14,20,64,1,6,85.18518518518519,60.0,33.33333333333333
+328,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Maria, Tatjana","Jones, Emerson",0,1,3,3,15,28,6,2,3,48,-16,6,21,3,31,21,0,5,53.57142857142857,25.0,60.0
+329,2026-01-05,"WTA Brisbane, Australia Women Singles",WTA,"Jones, Emerson","Maria, Tatjana",1,3,6,2,23,37,12,5,6,64,16,10,21,6,27,33,0,7,62.16216216216216,43.47826086956522,85.71428571428571
+330,2026-01-05,United Cup,United Cup,Zverev A / Siegemund L,Zielinski J / Kawa K,0,8,4,1,27,48,9,2,6,60,-10,7,18,5,33,34,0,5,56.25,36.84210526315789,80.0
+331,2026-01-05,United Cup,United Cup,Zielinski J / Kawa K,Zverev A / Siegemund L,1,5,6,1,25,45,13,3,6,70,10,12,17,6,26,37,1,9,55.55555555555556,66.66666666666666,66.66666666666666
+332,2026-01-05,United Cup,United Cup,"Raducanu, Emma","Sakkari, Maria",0,0,3,4,36,63,10,3,6,85,-16,10,21,7,42,46,0,11,57.142857142857146,40.0,27.27272727272727
+333,2026-01-05,United Cup,United Cup,"Sakkari, Maria","Raducanu, Emma",1,2,5,0,47,74,15,5,8,101,16,12,24,10,39,59,0,16,63.513513513513516,50.0,31.25
+334,2026-01-05,United Cup,United Cup,Skupski N / Nicholls O,Sakellaridis S / Papamichail D,1,0,2,3,24,19,6,3,6,58,10,11,21,6,14,35,0,5,126.3157894736842,45.83333333333333,40.0
+335,2026-01-05,United Cup,United Cup,Sakellaridis S / Papamichail D,Skupski N / Nicholls O,0,5,1,2,26,23,2,3,5,48,-10,8,16,7,23,34,0,6,113.04347826086956,44.44444444444444,16.666666666666664
+336,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Osorio, Camila","Marcinko, Petra",0,0,6,4,43,68,16,6,9,103,12,19,34,10,44,62,0,9,63.23529411764706,50.0,66.66666666666666
+337,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Marcinko, Petra","Osorio, Camila",1,1,4,8,37,59,13,3,7,91,-12,10,22,8,41,47,1,21,62.71186440677966,33.33333333333333,19.047619047619047
+338,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Boulter, Katie","Starodubtseva, Yuliia",1,1,5,6,20,31,12,7,7,62,10,17,26,7,26,37,0,8,64.51612903225806,53.125,62.5
+339,2026-01-05,"WTA Auckland, New Zealand Women Singles",WTA,"Starodubtseva, Yuliia","Boulter, Katie",0,2,2,2,21,34,6,3,8,52,-10,5,15,4,25,26,0,13,61.76470588235294,29.411764705882355,15.384615384615385
+340,2026-01-05,United Cup,United Cup,"Auger-Aliassime, Felix","Bergs, Zizou",0,8,0,5,28,38,6,1,6,46,-20,6,19,6,28,34,0,5,73.6842105263158,25.0,0.0
+341,2026-01-05,United Cup,United Cup,"Bergs, Zizou","Auger-Aliassime, Felix",1,4,3,0,22,30,12,5,8,66,20,16,20,9,12,38,0,10,73.33333333333333,80.0,30.0
+342,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Garland, Joanna","Parry, Diane",1,4,3,2,25,40,17,7,8,62,0,12,22,11,27,37,0,9,62.5,50.0,33.33333333333333
+343,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Parry, Diane","Garland, Joanna",0,9,4,7,25,34,13,3,6,62,0,10,19,12,25,35,0,5,73.52941176470588,38.46153846153847,80.0
+344,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Snigur, Daria","Korpatsch, Tamara",1,1,4,1,27,39,12,7,10,68,22,9,11,8,15,36,0,13,69.23076923076923,75.0,30.76923076923077
+345,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Korpatsch, Tamara","Snigur, Daria",0,3,0,9,20,33,4,1,4,46,-22,11,21,4,32,31,0,1,60.60606060606061,36.666666666666664,0.0
+346,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Iatcenko, Polina","Aiava, Destanee",1,5,5,2,35,50,18,5,7,84,11,17,32,12,32,52,0,10,70.0,50.0,50.0
+347,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Aiava, Destanee","Iatcenko, Polina",0,5,3,3,31,45,13,3,5,73,-11,10,25,10,32,41,1,5,68.88888888888889,35.714285714285715,60.0
+348,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Liang, En-Shuo","Stefanini, Lucrezia",1,5,5,2,27,39,13,5,8,82,16,11,22,13,25,38,1,13,69.23076923076923,45.83333333333333,38.46153846153847
+349,2026-01-05,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Stefanini, Lucrezia","Liang, En-Shuo",0,0,2,2,35,68,7,2,5,66,-16,6,15,10,44,41,0,2,51.470588235294116,35.294117647058826,100.0
+350,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Barry, Monique","Seidel, Ella",0,1,1,2,12,28,3,1,3,34,-26,4,11,2,25,16,0,3,42.857142857142854,30.76923076923077,33.33333333333333
+351,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Seidel, Ella","Barry, Monique",1,2,5,3,25,33,12,8,6,60,26,10,17,7,18,35,0,6,75.75757575757575,50.0,83.33333333333334
+352,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Kessler, McCartney","Keys, Madison",0,1,1,2,28,51,7,2,7,55,-15,8,11,6,28,36,0,6,54.90196078431372,61.53846153846154,16.666666666666664
+353,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Keys, Madison","Kessler, McCartney",1,2,3,3,36,52,12,3,5,70,15,6,7,9,19,42,0,8,69.23076923076923,60.0,37.5
+354,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Nakashima, Brandon","Davidovich Fokina, Alejandro",1,15,2,2,33,39,13,4,6,77,13,18,28,10,18,51,1,7,84.61538461538461,60.0,28.57142857142857
+355,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Davidovich Fokina, Alejandro","Nakashima, Brandon",0,6,1,1,31,45,10,3,5,64,-13,15,26,8,26,46,0,3,68.88888888888889,55.55555555555556,33.33333333333333
+356,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Kartal, Sonay","Tjen, Janice",1,8,4,0,48,66,18,5,8,108,19,16,26,14,28,64,0,16,72.72727272727273,61.53846153846154,25.0
+357,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Tjen, Janice","Kartal, Sonay",0,4,1,2,39,63,11,3,5,89,-19,22,40,9,44,61,1,4,61.904761904761905,52.38095238095239,25.0
+358,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Shapovalov, Denis","Collignon, Raphael",0,3,0,3,20,35,6,1,5,47,-19,16,27,6,29,36,0,0,57.142857142857146,53.333333333333336,
+359,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Collignon, Raphael","Shapovalov, Denis",1,2,3,0,29,35,12,5,7,66,19,8,13,9,11,37,0,12,82.85714285714286,61.53846153846154,25.0
+360,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Bronzetti, Lucia","Zidansek, Tamara",0,1,3,4,51,97,12,2,6,87,-16,0,0,8,46,51,1,7,52.577319587628864,0.0,42.857142857142854
+361,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Zidansek, Tamara","Bronzetti, Lucia",1,1,7,8,57,93,18,4,8,103,16,0,0,11,36,57,0,18,61.29032258064516,0.0,38.88888888888889
+362,2026-01-06,United Cup,United Cup,"Mboko, Victoria","Mertens, Elise",0,9,1,6,39,56,12,3,4,76,-20,22,38,11,39,61,0,3,69.64285714285714,50.0,33.33333333333333
+363,2026-01-06,United Cup,United Cup,"Mertens, Elise","Mboko, Victoria",1,4,2,2,42,45,15,3,12,96,20,15,25,13,15,57,0,7,93.33333333333333,55.55555555555556,28.57142857142857
+364,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Linette, Magda","Williams, Venus",1,7,5,1,41,60,16,5,8,95,8,16,32,11,36,57,0,9,68.33333333333333,48.484848484848484,55.55555555555556
+365,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Williams, Venus","Linette, Magda",0,7,3,4,32,53,12,3,7,87,-8,19,33,9,38,51,0,7,60.37735849056604,51.35135135135135,42.857142857142854
+366,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Korneeva, Alina","Kudermetova, Polina",0,3,3,8,16,33,5,2,4,46,-17,5,12,2,32,21,0,8,48.484848484848484,25.0,37.5
+367,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Kudermetova, Polina","Korneeva, Alina",1,2,6,2,21,38,12,5,5,63,17,10,16,6,25,31,0,7,55.26315789473684,55.55555555555556,85.71428571428571
+368,2026-01-06,United Cup,United Cup,"Cobolli, Flavio","Rinderknech, Arthur",0,5,4,5,41,59,18,5,7,120,-6,34,59,13,48,75,1,11,69.49152542372882,53.125,36.36363636363637
+369,2026-01-06,United Cup,United Cup,"Rinderknech, Arthur","Cobolli, Flavio",1,13,5,3,50,67,20,3,8,126,6,28,54,14,45,78,1,13,74.6268656716418,49.122807017543856,38.46153846153847
+370,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Radivojevic, Lola","Kostovic, Teodora",1,8,5,2,25,38,12,2,4,71,9,12,25,7,28,37,0,10,65.78947368421052,44.44444444444444,50.0
+371,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Kostovic, Teodora","Radivojevic, Lola",0,4,3,6,24,37,8,2,5,62,-9,10,25,5,34,34,0,7,64.86486486486487,32.25806451612903,42.857142857142854
+372,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Shnaider, Diana","Potapova, Anastasia",1,4,5,5,25,39,12,6,8,67,24,5,11,7,19,30,0,9,64.1025641025641,31.25,55.55555555555556
+373,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Potapova, Anastasia","Shnaider, Diana",0,4,1,7,17,29,4,2,4,43,-24,5,14,3,25,22,0,7,58.62068965517241,23.809523809523807,14.285714285714285
+374,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Sabalenka, Aryna","Bucsa, Cristina",1,4,5,0,24,30,12,11,13,54,32,5,6,7,7,29,0,6,80.0,83.33333333333334,83.33333333333334
+375,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Bucsa, Cristina","Sabalenka, Aryna",0,0,0,1,12,30,1,1,3,22,-32,3,9,1,25,15,0,0,40.0,30.0,
+376,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Mpetshi Perricard, Giovanni","Paul, Tommy",1,24,0,4,60,80,17,1,4,98,-10,19,26,14,31,79,2,1,75.0,63.33333333333333,0.0
+377,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Paul, Tommy","Mpetshi Perricard, Giovanni",0,6,1,1,50,63,18,3,7,108,10,27,32,17,19,77,0,3,79.36507936507937,81.81818181818183,33.33333333333333
+378,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Parks, Alycia","Cocciaretto, Elisabetta",0,6,2,2,18,28,7,2,5,53,-16,9,24,5,27,27,0,3,64.28571428571429,34.61538461538461,66.66666666666666
+379,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Cocciaretto, Elisabetta","Parks, Alycia",1,3,5,4,30,42,13,4,7,69,16,12,22,8,26,42,0,11,71.42857142857143,46.15384615384615,45.45454545454545
+380,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Stakusic, Marina","Vidmanova, Darja",0,0,1,7,14,23,5,1,4,45,-20,12,22,4,26,26,0,2,60.869565217391305,41.37931034482759,50.0
+381,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Vidmanova, Darja","Stakusic, Marina",1,6,4,4,26,34,12,3,9,65,20,13,20,8,19,39,0,8,76.47058823529412,54.166666666666664,50.0
+382,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Kenin, Sofia","Alexandrova, Ekaterina",0,3,1,7,37,55,9,3,4,63,-17,11,21,8,35,48,0,3,67.27272727272727,39.285714285714285,33.33333333333333
+383,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Alexandrova, Ekaterina","Kenin, Sofia",1,9,3,1,35,43,13,4,8,80,17,10,16,9,15,45,1,6,81.3953488372093,58.82352941176471,50.0
+384,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Sherif Ahmed Abdelaziz, Maiar","Micic, Elena",1,3,5,4,43,64,16,4,6,101,2,10,21,11,34,53,0,10,67.1875,40.0,50.0
+385,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Micic, Elena","Sherif Ahmed Abdelaziz, Maiar",0,6,4,15,44,57,15,3,6,99,-2,20,40,11,48,64,0,9,77.19298245614036,36.36363636363637,44.44444444444444
+386,2026-01-06,United Cup,United Cup,Harper C / Mboko V,Bergs Z / Mertens E,0,0,3,1,23,34,9,3,5,53,-5,8,19,6,23,31,0,6,67.6470588235294,40.0,50.0
+387,2026-01-06,United Cup,United Cup,Bergs Z / Mertens E,Harper C / Mboko V,1,3,3,4,23,32,9,3,6,58,5,12,21,6,22,35,0,4,71.875,48.0,75.0
+388,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Kyrgios, Nick","Kovacevic, Aleksandar",0,5,0,0,23,29,7,1,5,40,-13,10,17,7,13,33,0,0,79.3103448275862,58.82352941176471,
+389,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Kovacevic, Aleksandar","Kyrgios, Nick",1,10,2,3,25,26,12,3,5,53,13,14,17,10,7,39,0,2,96.15384615384616,70.0,100.0
+390,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Kalieva, Elvina","Gorgodze, Ekaterine",0,8,3,5,46,72,15,3,7,120,-4,4,8,11,55,74,1,8,63.888888888888886,30.76923076923077,37.5
+391,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Gorgodze, Ekaterine","Kalieva, Elvina",1,4,5,3,64,108,19,3,6,124,4,18,29,13,46,69,1,13,59.25925925925926,56.25,38.46153846153847
+392,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Svitolina, Elina","Gracheva, Varvara",1,2,6,2,22,28,12,5,15,68,22,8,18,6,18,30,0,11,78.57142857142857,40.0,54.54545454545454
+393,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Gracheva, Varvara","Svitolina, Elina",0,3,2,5,21,44,4,1,4,46,-22,7,17,2,38,28,0,4,47.72727272727273,31.818181818181817,50.0
+394,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Norrie, Cameron","Humbert, Ugo",1,10,3,4,43,65,15,3,8,100,-5,18,35,11,43,61,1,10,66.15384615384616,46.15384615384615,30.0
+395,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Humbert, Ugo","Norrie, Cameron",0,13,5,4,39,55,17,4,8,105,5,23,42,12,39,62,0,7,70.9090909090909,50.0,71.42857142857143
+396,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Muller, Alexandre","Kecmanovic, Miomir",1,9,4,2,33,43,13,3,12,66,11,8,14,9,18,41,0,4,76.74418604651163,50.0,100.0
+397,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Kecmanovic, Miomir","Muller, Alexandre",0,7,2,0,30,43,9,2,10,55,-11,7,19,6,25,37,0,5,69.76744186046511,36.84210526315789,40.0
+398,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Etcheverry, Tomas Martin","Royer, Valentin",1,8,3,0,26,33,13,3,8,70,12,16,23,10,14,42,0,12,78.78787878787878,69.56521739130434,25.0
+399,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Royer, Valentin","Etcheverry, Tomas Martin",0,9,1,1,29,49,9,3,8,58,-12,15,22,8,28,44,0,2,59.183673469387756,65.21739130434783,50.0
+400,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Sonego, Lorenzo","Sakamoto, Rei",1,4,3,0,30,39,13,3,6,78,15,15,24,9,18,45,1,6,76.92307692307692,62.5,50.0
+401,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Sakamoto, Rei","Sonego, Lorenzo",0,1,1,2,25,43,8,3,4,63,-15,20,33,6,33,45,0,2,58.13953488372093,57.14285714285714,50.0
+402,2026-01-06,United Cup,United Cup,"Paolini, Jasmine","Jeanjean, Leolia",1,2,5,1,22,25,12,7,7,68,19,12,22,7,14,34,0,16,88.0,52.17391304347826,31.25
+403,2026-01-06,United Cup,United Cup,"Jeanjean, Leolia","Paolini, Jasmine",0,7,1,5,27,45,5,1,5,49,-19,8,19,4,34,35,0,5,60.0,33.33333333333333,20.0
+404,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Cirstea, Sorana","Ostapenko, Jelena",1,11,3,3,32,34,13,4,10,77,16,16,30,9,21,46,1,3,94.11764705882354,48.484848484848484,100.0
+405,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Ostapenko, Jelena","Cirstea, Sorana",0,0,1,3,29,43,8,1,5,61,-16,11,25,7,31,40,0,4,67.44186046511628,39.285714285714285,25.0
+406,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Kokkinis, Tahlia","Sakatsume, Himeno",0,2,0,3,22,31,7,1,5,53,-18,15,30,7,27,37,0,7,70.96774193548387,45.45454545454545,0.0
+407,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Sakatsume, Himeno","Kokkinis, Tahlia",1,8,3,0,30,40,13,4,6,71,18,14,20,10,16,44,0,3,75.0,70.0,100.0
+408,2026-01-06,United Cup,United Cup,"Joint, Maya","Krejcikova, Barbora",0,0,1,1,17,39,5,2,4,36,-29,8,16,4,31,25,0,2,43.58974358974359,47.05882352941176,50.0
+409,2026-01-06,United Cup,United Cup,"Krejcikova, Barbora","Joint, Maya",1,4,5,2,24,27,12,5,8,65,29,10,16,7,11,34,0,8,88.88888888888889,55.55555555555556,62.5
+410,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Vekic, Donna","Eala, Alexandra",0,7,5,9,34,57,14,3,10,96,-7,16,32,9,45,50,0,11,59.64912280701754,39.02439024390244,45.45454545454545
+411,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Eala, Alexandra","Vekic, Donna",1,1,6,6,40,60,16,3,8,103,7,18,38,10,46,58,0,12,66.66666666666667,40.909090909090914,50.0
+412,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Wong, Coleman","Navone, Mariano",1,4,5,2,27,38,13,4,11,80,14,18,32,7,27,45,0,11,71.05263157894737,52.94117647058824,45.45454545454545
+413,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Navone, Mariano","Wong, Coleman",0,3,2,3,31,47,8,2,4,66,-14,8,24,5,35,39,0,8,65.95744680851064,29.629629629629626,25.0
+414,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"De Jong, Jesper","Diallo, Gabriel",0,8,0,4,34,42,10,1,5,68,-6,16,23,10,19,50,0,0,80.95238095238095,59.25925925925925,
+415,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Diallo, Gabriel","De Jong, Jesper",1,9,1,2,39,47,13,2,5,74,6,16,24,11,18,55,1,1,82.97872340425532,61.53846153846154,100.0
+416,2026-01-06,United Cup,United Cup,Vavassori A / Errani S,Roger-Vasselin E / Rakotomanga Rajaonah T S,1,7,3,0,41,64,14,3,5,89,13,9,15,9,29,50,2,8,64.0625,60.0,37.5
+417,2026-01-06,United Cup,United Cup,Roger-Vasselin E / Rakotomanga Rajaonah T S,Vavassori A / Errani S,0,8,3,2,37,58,12,3,5,76,-13,10,26,9,39,47,0,4,63.793103448275865,35.714285714285715,75.0
+418,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Tabilo, Alejandro","Mmoh, Michael",0,6,0,1,28,40,9,2,4,67,-7,15,24,9,22,43,0,6,70.0,60.0,0.0
+419,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Mmoh, Michael","Tabilo, Alejandro",1,13,2,3,39,49,13,3,6,74,7,13,24,10,24,52,0,6,79.59183673469387,48.148148148148145,33.33333333333333
+420,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Prozorova, Tatiana","Bartunkova, Nikola",1,1,5,2,21,30,12,5,10,58,24,12,18,7,17,33,0,8,70.0,60.0,62.5
+421,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Bartunkova, Nikola","Prozorova, Tatiana",0,3,1,3,10,17,3,2,5,34,-24,7,22,2,25,17,0,6,58.8235294117647,28.000000000000004,16.666666666666664
+422,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Hijikata, Rinky","Walton, Adam",1,7,4,0,22,33,12,5,6,57,12,13,21,8,19,35,0,8,66.66666666666667,61.904761904761905,50.0
+423,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Walton, Adam","Hijikata, Rinky",0,4,1,1,18,32,5,2,8,45,-12,8,15,4,22,26,0,2,56.25,50.0,50.0
+424,2026-01-06,United Cup,United Cup,"de Minaur, Alex","Mensik, Jakub",1,4,4,0,26,38,12,4,4,67,14,14,24,8,22,40,0,6,68.42105263157895,58.333333333333336,66.66666666666666
+425,2026-01-06,United Cup,United Cup,"Mensik, Jakub","de Minaur, Alex",0,3,0,3,23,34,5,1,4,53,-14,8,21,5,27,31,0,4,67.6470588235294,33.33333333333333,0.0
+426,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Muchova, Karolina","Tomljanovic, Ajla",1,4,7,5,42,70,17,6,6,109,10,12,22,9,42,54,1,19,60.0,44.44444444444444,36.84210526315789
+427,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Tomljanovic, Ajla","Muchova, Karolina",0,3,5,9,47,91,13,2,5,99,-10,10,15,8,55,57,0,10,51.64835164835165,41.66666666666667,50.0
+428,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Dimitrov, Grigor","Carreno Busta, Pablo",1,7,3,1,26,30,12,5,7,56,18,12,18,9,11,38,0,4,86.66666666666667,63.1578947368421,75.0
+429,2026-01-06,"ATP Brisbane, Australia Men Singles",ATP,"Carreno Busta, Pablo","Dimitrov, Grigor",0,4,0,1,22,33,5,1,5,38,-18,5,11,5,18,27,0,1,66.66666666666667,41.66666666666667,0.0
+430,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Struff, Jan-Lennard","Van de Zandschulp, Botic",0,3,3,4,28,47,10,6,9,70,-4,13,21,6,31,41,0,8,59.57446808510638,52.0,37.5
+431,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Van de Zandschulp, Botic","Struff, Jan-Lennard",1,4,4,5,29,44,13,5,6,74,4,14,24,8,29,43,0,8,65.9090909090909,48.275862068965516,50.0
+432,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Djere, Laslo","Giron, Marcos",0,4,0,2,16,32,2,1,3,35,-22,6,16,2,28,22,0,0,50.0,33.33333333333333,
+433,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Giron, Marcos","Djere, Laslo",1,1,5,3,21,27,12,11,5,57,22,8,12,7,13,29,0,7,77.77777777777777,53.333333333333336,71.42857142857143
+434,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Rybakina, Elena","Zhang, Shuai",1,16,4,6,31,40,13,4,7,70,15,11,17,9,20,42,0,9,77.5,47.82608695652174,44.44444444444444
+435,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Zhang, Shuai","Rybakina, Elena",0,3,2,0,31,51,8,3,4,55,-15,9,21,6,28,35,0,7,60.78431372549019,42.857142857142854,28.57142857142857
+436,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Shang, Juncheng","Comesana, Francisco",1,6,2,0,30,39,12,3,4,57,4,12,19,8,16,42,0,5,76.92307692307692,63.1578947368421,40.0
+437,2026-01-06,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Comesana, Francisco","Shang, Juncheng",0,7,0,2,27,38,8,2,5,53,-4,10,13,8,15,37,0,1,71.05263157894737,66.66666666666666,0.0
+438,2026-01-06,United Cup,United Cup,de Minaur A / Hunter S,Svrcina D / Skoch M,1,0,4,3,29,41,12,3,10,52,11,3,6,8,18,32,0,6,70.73170731707317,33.33333333333333,66.66666666666666
+439,2026-01-06,United Cup,United Cup,Svrcina D / Skoch M,de Minaur A / Hunter S,0,0,1,3,17,27,5,1,4,41,-11,6,13,4,20,23,0,5,62.96296296296296,37.5,20.0
+440,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Bouzkova, Marie","Badosa, Paula",0,3,2,8,45,75,13,3,7,106,-10,20,35,10,52,65,1,8,60.0,46.51162790697674,25.0
+441,2026-01-06,"WTA Brisbane, Australia Women Singles",WTA,"Badosa, Paula","Bouzkova, Marie",1,8,5,13,48,66,18,5,6,116,10,16,28,13,41,64,0,18,72.72727272727273,39.02439024390244,27.77777777777778
+442,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Jovic, Iva","Bejlek, Sara",1,2,6,2,28,47,13,3,9,78,15,9,17,6,29,37,1,10,59.57446808510638,47.368421052631575,60.0
+443,2026-01-06,"WTA Auckland, New Zealand Women Singles",WTA,"Bejlek, Sara","Jovic, Iva",0,1,5,3,24,43,10,3,6,63,-15,10,29,5,41,34,0,10,55.81395348837209,31.25,50.0
+444,2026-01-06,United Cup,United Cup,"Hurkacz, Hubert","Griekspoor, Tallon",1,21,1,0,37,41,13,3,7,68,22,11,14,11,7,48,1,1,90.2439024390244,78.57142857142857,100.0
+445,2026-01-06,United Cup,United Cup,"Griekspoor, Tallon","Hurkacz, Hubert",0,4,0,0,26,39,9,1,4,46,-22,13,20,9,20,39,0,0,66.66666666666667,65.0,
+446,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Liang, En-Shuo","Snigur, Daria",0,0,4,1,9,10,6,2,5,53,-14,4,12,2,10,13,0,6,90.0,30.76923076923077,66.66666666666666
+447,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Snigur, Daria","Liang, En-Shuo",1,2,7,0,3,6,12,7,10,67,14,4,9,5,8,7,0,14,50.0,44.44444444444444,50.0
+448,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Waltert, Simona","Vidmanova, Darja",1,2,6,9,53,91,16,5,8,105,0,1,4,10,42,54,0,16,58.24175824175824,7.6923076923076925,37.5
+449,2026-01-06,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Vidmanova, Darja","Waltert, Simona",0,5,5,6,61,109,14,3,7,105,0,2,4,9,51,63,0,13,55.96330275229358,20.0,38.46153846153847
+450,2026-01-07,"WTA Auckland, New Zealand Women Singles",WTA,"Kraus, Sinja","Jones, Francesca",0,8,4,6,25,37,11,7,6,76,-7,14,30,7,34,39,0,13,67.56756756756756,38.88888888888889,30.76923076923077
+451,2026-01-07,"WTA Auckland, New Zealand Women Singles",WTA,"Jones, Francesca","Kraus, Sinja",1,1,5,3,37,56,13,5,6,83,7,12,27,8,37,49,0,8,66.07142857142857,40.0,62.5
+452,2026-01-07,"ATP Brisbane, Australia Men Singles",ATP,"Michelsen, Alex","Tien, Learner",1,4,3,1,28,34,12,4,6,63,13,10,18,9,15,38,0,9,82.3529411764706,52.63157894736842,33.33333333333333
+453,2026-01-07,"ATP Brisbane, Australia Men Singles",ATP,"Tien, Learner","Michelsen, Alex",0,8,0,8,22,34,6,1,5,50,-13,13,18,6,25,35,0,1,64.70588235294117,50.0,0.0
+454,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Fernandez, Leylah Annie","Yastremska, Dayana",0,0,0,7,14,29,3,1,5,28,-28,5,7,3,23,19,0,3,48.275862068965516,35.714285714285715,0.0
+455,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Yastremska, Dayana","Fernandez, Leylah Annie",1,1,4,0,23,28,12,5,7,56,28,10,14,8,9,33,0,10,82.14285714285714,71.42857142857143,40.0
+456,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Kalinskaya, Anna","Pegula, Jessica",0,2,4,3,37,62,12,5,6,83,0,10,21,8,32,47,0,9,59.67741935483871,41.66666666666667,44.44444444444444
+457,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Pegula, Jessica","Kalinskaya, Anna",1,6,5,3,32,60,14,4,6,83,0,16,35,9,36,48,0,11,53.333333333333336,42.10526315789473,45.45454545454545
+458,2026-01-07,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Gorgodze, Ekaterine","Uchijima, Moyuka",1,4,5,2,25,40,12,7,6,63,14,10,16,7,23,35,0,14,62.5,55.55555555555556,35.714285714285715
+459,2026-01-07,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Uchijima, Moyuka","Gorgodze, Ekaterine",0,3,2,3,21,33,5,3,7,49,-14,5,18,3,28,26,0,8,63.63636363636363,23.809523809523807,25.0
+460,2026-01-07,United Cup,United Cup,"Swiatek, Iga","Lamens, Suzan",1,3,4,0,26,31,12,5,6,57,22,10,15,8,10,36,0,7,83.87096774193549,66.66666666666666,57.14285714285714
+461,2026-01-07,United Cup,United Cup,"Lamens, Suzan","Swiatek, Iga",0,0,1,5,20,32,5,2,4,35,-22,5,9,4,21,25,0,1,62.5,35.714285714285715,100.0
+462,2026-01-07,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Radivojevic, Lola","Kudermetova, Polina",0,7,0,4,25,33,9,1,5,64,-11,15,22,9,19,40,0,6,75.75757575757575,57.692307692307686,0.0
+463,2026-01-07,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Kudermetova, Polina","Radivojevic, Lola",1,5,1,5,36,47,13,3,6,75,11,20,28,11,24,56,1,3,76.59574468085107,60.60606060606061,33.33333333333333
+464,2026-01-07,United Cup,United Cup,"Gauff, Coco","Sakkari, Maria",1,1,4,6,29,38,12,5,6,64,19,9,12,8,18,38,0,7,76.3157894736842,50.0,57.14285714285714
+465,2026-01-07,United Cup,United Cup,"Sakkari, Maria","Gauff, Coco",0,0,1,1,19,36,5,3,4,45,-19,8,16,4,26,27,0,1,52.77777777777778,47.05882352941176,100.0
+466,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Tauson, Clara","Sasnovich, Aliaksandra",0,3,0,4,28,49,5,1,4,44,-19,1,3,5,27,29,0,1,57.142857142857146,14.285714285714285,0.0
+467,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Sasnovich, Aliaksandra","Tauson, Clara",1,2,4,2,31,37,12,4,9,63,19,5,12,8,15,36,0,11,83.78378378378379,35.714285714285715,36.36363636363637
+468,2026-01-07,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Zidansek, Tamara","Tararudee, Lanlana",1,1,3,8,40,59,15,3,6,94,-2,20,39,11,45,60,1,4,67.79661016949153,42.5531914893617,75.0
+469,2026-01-07,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Tararudee, Lanlana","Zidansek, Tamara",0,7,4,7,23,28,15,5,6,96,2,28,50,11,34,51,0,8,82.14285714285714,49.122807017543856,50.0
+470,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Jones, Emerson","Samsonova, Liudmila",0,2,2,4,16,28,5,3,5,40,-17,5,18,3,29,21,0,3,57.142857142857146,22.727272727272727,66.66666666666666
+471,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Samsonova, Liudmila","Jones, Emerson",1,3,6,0,20,32,12,8,13,57,17,8,15,6,19,28,0,8,62.5,53.333333333333336,75.0
+472,2026-01-07,United Cup,United Cup,Zielinski J / Kawa K,Pel D / Schuurs D,1,1,0,0,1,2,1,1,2,4,2,3,4,1,2,4,0,0,50.0,75.0,
+473,2026-01-07,United Cup,United Cup,Pel D / Schuurs D,Zielinski J / Kawa K,0,0,0,0,0,0,0,0,1,2,-2,0,0,0,0,0,0,0,,,
+474,2026-01-07,"ATP Brisbane, Australia Men Singles",ATP,"Medvedev, Daniil","Tiafoe, Frances",1,9,3,4,31,34,12,3,7,53,16,6,10,9,11,37,0,6,91.17647058823529,42.857142857142854,50.0
+475,2026-01-07,"ATP Brisbane, Australia Men Singles",ATP,"Tiafoe, Frances","Medvedev, Daniil",0,2,0,0,20,25,5,1,4,37,-16,6,17,5,16,26,0,0,80.0,35.294117647058826,
+476,2026-01-07,United Cup,United Cup,"Fritz, Taylor","Tsitsipas, Stefanos",0,6,0,0,26,32,9,1,5,56,-4,13,21,9,14,39,0,2,81.25,61.904761904761905,0.0
+477,2026-01-07,United Cup,United Cup,"Tsitsipas, Stefanos","Fritz, Taylor",1,5,2,2,35,44,13,3,9,60,4,11,17,11,17,46,0,3,79.54545454545455,57.89473684210527,66.66666666666666
+478,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Frech, Magdalena","Noskova, Linda",0,12,2,4,50,67,15,3,5,103,-7,11,26,12,36,61,1,10,74.6268656716418,36.666666666666664,20.0
+479,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Noskova, Linda","Frech, Magdalena",1,11,4,10,45,60,18,3,5,110,7,29,46,14,42,74,0,10,75.0,51.78571428571429,40.0
+480,2026-01-07,"WTA Auckland, New Zealand Women Singles",WTA,"Wang, Xinyu","Zarazua, Renata",1,3,4,2,30,41,13,4,5,82,9,10,21,9,24,40,0,10,73.17073170731707,43.47826086956522,40.0
+481,2026-01-07,"WTA Auckland, New Zealand Women Singles",WTA,"Zarazua, Renata","Wang, Xinyu",0,0,2,1,26,45,9,2,5,73,-9,13,23,7,30,39,0,6,57.77777777777778,54.166666666666664,33.33333333333333
+482,2026-01-07,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Musetti, Lorenzo","Etcheverry, Tomas Martin",1,8,5,3,46,70,18,4,5,100,10,17,24,12,33,63,0,8,65.71428571428571,62.96296296296296,62.5
+483,2026-01-07,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Etcheverry, Tomas Martin","Musetti, Lorenzo",0,10,2,0,45,67,13,3,7,90,-10,12,27,9,37,57,1,3,67.16417910447761,44.44444444444444,66.66666666666666
+484,2026-01-07,United Cup,United Cup,Harrison C / Gauff C,Sakkari M / Tsitsipas S,1,1,4,2,29,45,10,3,9,71,8,12,20,6,26,41,0,13,64.44444444444444,54.54545454545454,30.76923076923077
+485,2026-01-07,United Cup,United Cup,Sakkari M / Tsitsipas S,Harrison C / Gauff C,0,4,4,2,30,53,10,4,7,63,-8,7,12,6,30,37,0,6,56.60377358490566,50.0,66.66666666666666
+486,2026-01-07,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Sherif Ahmed Abdelaziz, Maiar","Sakatsume, Himeno",0,2,4,3,50,80,12,2,5,97,-2,9,24,8,48,59,0,9,62.5,33.33333333333333,44.44444444444444
+487,2026-01-07,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Sakatsume, Himeno","Sherif Ahmed Abdelaziz, Maiar",1,1,5,3,40,60,15,3,6,99,2,11,26,10,38,51,0,19,66.66666666666667,37.93103448275862,26.31578947368421
+488,2026-01-07,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Yuan, Yue","Prozorova, Tatiana",1,5,3,1,25,34,12,3,6,71,15,17,25,9,18,42,0,6,73.52941176470588,65.38461538461539,50.0
+489,2026-01-07,"WTA 125K Canberra, Australia Women Singles",WTA 125K,"Prozorova, Tatiana","Yuan, Yue",0,2,0,2,28,46,7,1,5,56,-15,12,21,7,29,40,0,5,60.869565217391305,52.17391304347826,0.0
+490,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Andreeva, Mirra","Gadecki, Olivia",1,4,5,7,38,48,16,9,13,85,19,12,21,11,26,50,0,10,79.16666666666667,42.857142857142854,50.0
+491,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Gadecki, Olivia","Andreeva, Mirra",0,2,2,3,28,53,9,3,5,66,-19,12,20,7,35,40,0,8,52.83018867924528,52.17391304347826,25.0
+492,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Kostyuk, Marta","Putintseva, Yulia",1,4,7,1,33,45,18,10,8,88,25,12,20,11,21,45,0,9,73.33333333333333,57.14285714285714,77.77777777777779
+493,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Putintseva, Yulia","Kostyuk, Marta",0,0,1,1,33,49,8,3,6,63,-25,4,16,6,29,37,1,2,67.34693877551021,23.52941176470588,50.0
+494,2026-01-07,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Cilic, Marin","Borges, Nuno",0,9,1,5,22,32,8,3,6,49,-15,10,15,5,20,32,0,2,68.75,50.0,50.0
+495,2026-01-07,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Borges, Nuno","Cilic, Marin",1,5,3,1,32,37,13,5,9,64,15,12,23,10,17,44,0,4,86.48648648648648,50.0,75.0
+496,2026-01-07,"WTA Auckland, New Zealand Women Singles",WTA,"Costoulas, Sofia","Quevedo, Kaitlin",1,7,5,3,13,18,12,7,6,56,25,19,24,7,13,32,0,7,72.22222222222223,70.37037037037037,71.42857142857143
+497,2026-01-07,"WTA Auckland, New Zealand Women Singles",WTA,"Quevedo, Kaitlin","Costoulas, Sofia",0,2,0,3,12,25,2,1,4,31,-25,6,14,2,24,18,0,4,48.0,35.294117647058826,0.0
+498,2026-01-07,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Wong, Coleman","Diallo, Gabriel",1,10,4,3,42,63,15,3,7,106,-3,21,41,11,44,63,0,11,66.66666666666667,47.72727272727273,36.36363636363637
+499,2026-01-07,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Diallo, Gabriel","Wong, Coleman",0,9,4,3,50,76,16,3,6,109,3,15,29,12,43,65,0,15,65.78947368421052,46.875,26.666666666666668
+500,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Birrell, Kimberly","Anisimova, Amanda",0,0,1,5,18,36,4,2,5,34,-24,4,12,3,31,22,0,2,50.0,23.52941176470588,50.0
+501,2026-01-07,"WTA Brisbane, Australia Women Singles",WTA,"Anisimova, Amanda","Birrell, Kimberly",1,4,5,1,19,25,12,5,11,58,24,11,16,7,12,30,0,6,76.0,64.70588235294117,83.33333333333334
+502,2026-01-07,"ATP Brisbane, Australia Men Singles",ATP,"Majchrzak, Kamil","Opelka, Reilly",1,13,0,2,66,76,20,2,5,118,6,22,30,18,20,88,2,3,86.84210526315789,68.75,0.0
+503,2026-01-07,"ATP Brisbane, Australia Men Singles",ATP,"Opelka, Reilly","Majchrzak, Kamil",0,44,0,4,78,99,19,1,7,112,-6,14,19,18,30,92,1,0,78.78787878787878,60.86956521739131,
+504,2026-01-07,United Cup,United Cup,"Bencic, Belinda","Sierra, Solana",1,1,4,2,32,36,12,3,12,66,26,5,12,8,13,37,0,7,88.88888888888889,35.714285714285715,57.14285714285714
+505,2026-01-07,United Cup,United Cup,"Sierra, Solana","Bencic, Belinda",0,3,0,3,21,34,4,1,4,40,-26,6,19,4,29,27,0,3,61.76470588235294,27.27272727272727,0.0
+506,2026-01-07,United Cup,United Cup,"Wawrinka, Stan","Baez, Sebastian",0,11,0,2,29,36,9,1,5,66,-7,14,28,9,23,43,0,5,80.55555555555556,46.666666666666664,0.0
+507,2026-01-07,United Cup,United Cup,"Baez, Sebastian","Wawrinka, Stan",1,3,2,1,41,57,13,3,8,73,7,9,15,11,23,50,0,4,71.9298245614035,56.25,50.0
+508,2026-01-07,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Rublev, Andrey","Wu, Yibing",1,10,5,2,39,54,15,7,8,83,17,11,22,10,27,50,0,7,72.22222222222223,45.83333333333333,71.42857142857143
+509,2026-01-07,"ATP Hong Kong, Hong Kong Men Singles",ATP,"Wu, Yibing","Rublev, Andrey",0,5,2,1,29,44,9,3,5,66,-17,10,27,7,33,39,0,5,65.9090909090909,35.714285714285715,40.0
+510,2026-01-07,United Cup,United Cup,Paul J / Bencic B,Andreozzi G / Carle M L,1,2,5,1,25,38,12,4,6,61,19,7,13,7,20,32,0,8,65.78947368421052,50.0,62.5
+511,2026-01-07,United Cup,United Cup,Andreozzi G / Carle M L,Paul J / Bencic B,0,1,2,1,16,37,6,2,5,42,-19,6,13,4,29,22,0,4,43.24324324324324,42.857142857142854,50.0
