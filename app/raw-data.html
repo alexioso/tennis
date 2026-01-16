@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Raw Data</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <nav></nav>
+
+  <main>
+    <h2>Raw League Data</h2>
+    <pre id="rawData"></pre>
+  </main>
+
+  <script src="js/data.js"></script>
+  <script>
+    document.getElementById("rawData").textContent =
+      JSON.stringify(window.leagueData, null, 2);
+  </script>
+</body>
+</html>

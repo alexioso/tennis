@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Monthly Results</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <nav>
+    <!-- shared nav here -->
+    <button id="logoutBtn">Log Out</button> <!-- ✅ Added Log Out button -->
+  </nav>
+
+  <main>
+    <h2>This Month’s Results</h2>
+        <embed height=100% width=100% style="height: 100vh;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTl_1vUeWE37i_OEeTD4snjlif4rHaQErod9pC7ssvZBkrhx0ldIGHCLdi5JZfW1bK_enEFT82z9TfO/pubhtml?widget=true&amp;headers=false" ></embed>
+  </main>
+
+  <!-- Firebase and your data scripts -->
+  <script type="module" src="js/firebase.js"></script>
+  <script type="module">
+    import { auth } from './js/firebase.js';
+    import { signOut } from "https://www.gstatic.com/firebasejs/12.8.0/firebase-auth.js";
+
+    // Get the logout button
+    const logoutBtn = document.getElementById("logoutBtn");
+
+    // Attach click handler
+    logoutBtn.addEventListener("click", async () => {
+      try {
+        await signOut(auth);
+        console.log("User logged out successfully");
+        window.location.href = "index.html"; // redirect to login page
+      } catch (err) {
+        console.error("Logout failed:", err);
+      }
+    });
+  </script>
+  <script src="js/data.js"></script>
+</body>
+</html>
