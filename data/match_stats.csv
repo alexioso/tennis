@@ -1793,7 +1793,7 @@
 1791,2026-01-22,Australian Open Men Singles,ATP,"Quinn, Ethan","Hurkacz, Hubert",1,12,3,2,56,72,19,7,12,114,25,21,34,15,31,77,1,7,77.77777777777777,58.333333333333336,42.857142857142854,January 2026
 1792,2026-01-22,Australian Open Women Singles,WTA,"Siegemund, Laura","Inglis, Maddison",0,7,5,4,51,84,17,4,6,113,0,16,29,11,49,67,1,10,60.714285714285715,48.484848484848484,50.0,January 2026
 1793,2026-01-22,Australian Open Women Singles,WTA,"Inglis, Maddison","Siegemund, Laura",1,2,6,3,43,70,19,4,4,113,0,21,38,12,46,64,1,10,61.42857142857143,51.21951219512195,60.0,January 2026
-1794,2026-01-22,Australian Open Men Singles,ATP,"Djokovic, Novak","Maestrelli, Francesco",1,5,6,4,45,52,18,4,10,102,33,9,22,12,24,54,0,16,86.53846153846153,34.61538461538461,37.5,January 2026
+1794,2026-01-22,Australian Open Men Singles,ATP,"Djokovic, Novak","Maestrelli, Francesco",1,4,6,4,45,52,18,4,10,102,33,9,22,12,24,54,0,16,86.53846153846153,34.61538461538461,37.5,January 2026
 1795,2026-01-22,Australian Open Men Singles,ATP,"Maestrelli, Francesco","Djokovic, Novak",0,10,1,4,30,56,7,1,3,69,-33,15,33,6,48,45,0,5,53.57142857142857,40.54054054054054,20.0,January 2026
 1796,2026-01-22,Australian Open Women Singles,WTA,"Grabher, Julia","Kalinskaya, Anna",0,2,3,4,24,42,6,2,4,48,-19,4,18,3,36,28,0,5,57.142857142857146,18.181818181818183,60.0,January 2026
 1797,2026-01-22,Australian Open Women Singles,WTA,"Kalinskaya, Anna","Grabher, Julia",1,2,6,3,21,32,12,5,8,67,19,10,16,6,20,31,0,9,65.625,52.63157894736842,66.66666666666666,January 2026
@@ -1865,3 +1865,37 @@
 1863,2026-01-23,Australian Open Men Singles,ATP,"Etcheverry, Tomas Martin","Bublik, Alexander",0,10,0,1,56,74,16,1,6,101,-14,24,37,16,32,80,0,3,75.67567567567568,63.1578947368421,0.0,January 2026
 1864,2026-01-23,Australian Open Women Singles,WTA,"Ruse, Elena-Gabriela","Andreeva, Mirra",0,0,2,3,24,38,7,1,5,55,-16,8,21,5,30,32,0,8,63.1578947368421,33.33333333333333,25.0,January 2026
 1865,2026-01-23,Australian Open Women Singles,WTA,"Andreeva, Mirra","Ruse, Elena-Gabriela",1,1,4,3,27,41,12,3,6,71,16,14,20,8,23,41,0,7,65.85365853658537,60.86956521739131,57.14285714285714,January 2026
+1866,2026-01-23,Australian Open Men Singles,ATP,"Khachanov, Karen","Darderi, Luciano",0,14,2,4,62,88,19,3,8,129,-6,28,47,17,49,90,0,4,70.45454545454545,54.90196078431373,50.0,January 2026
+1867,2026-01-23,Australian Open Men Singles,ATP,"Darderi, Luciano","Khachanov, Karen",1,17,3,4,58,74,22,3,8,135,6,28,44,18,39,86,1,8,78.37837837837837,58.333333333333336,37.5,January 2026
+1868,2026-01-23,Australian Open Men Singles,ATP,"Machac, Tomas","Musetti, Lorenzo",0,3,5,3,77,126,22,3,8,164,-22,30,68,17,90,107,0,15,61.111111111111114,42.25352112676056,33.33333333333333,January 2026
+1869,2026-01-23,Australian Open Men Singles,ATP,"Musetti, Lorenzo","Machac, Tomas",1,10,8,5,63,86,28,4,8,186,22,33,62,20,57,96,0,26,73.25581395348837,49.25373134328358,30.76923076923077,January 2026
+1870,2026-01-23,Australian Open Women Singles,WTA,"Pegula, Jessica","Selekhmeteva, Oksana",1,0,4,0,22,26,12,4,7,62,20,11,18,8,10,33,0,8,84.61538461538461,61.111111111111114,50.0,January 2026
+1871,2026-01-23,Australian Open Women Singles,WTA,"Selekhmeteva, Oksana","Pegula, Jessica",0,3,0,0,27,46,5,1,4,42,-20,5,14,5,29,32,0,2,58.69565217391305,35.714285714285715,0.0,January 2026
+1872,2026-01-23,Australian Open Women Singles,WTA,"Pliskova, Karolina","Keys, Madison",0,1,1,6,27,48,6,3,9,55,-14,10,16,5,33,37,0,2,56.25,45.45454545454545,50.0,January 2026
+1873,2026-01-23,Australian Open Women Singles,WTA,"Keys, Madison","Pliskova, Karolina",1,6,4,5,28,37,12,4,9,69,14,8,12,8,18,36,0,9,75.67567567567568,47.05882352941176,44.44444444444444,January 2026
+1874,2026-01-24,Australian Open Women Singles,WTA,"Anisimova, Amanda","Stearns, Peyton",1,4,5,7,28,37,12,5,9,62,17,9,17,7,24,37,0,8,75.67567567567568,37.5,62.5,January 2026
+1875,2026-01-24,Australian Open Women Singles,WTA,"Stearns, Peyton","Anisimova, Amanda",0,2,2,1,15,25,5,2,4,45,-17,6,20,3,25,21,0,8,60.0,28.57142857142857,25.0,January 2026
+1876,2026-01-24,Australian Open Men Singles,ATP,"Sinner, Jannik","Spizzirri, Eliot",1,17,8,4,57,87,22,4,10,121,2,19,41,14,56,76,0,11,65.51724137931035,42.22222222222222,72.72727272727273,January 2026
+1877,2026-01-24,Australian Open Men Singles,ATP,"Spizzirri, Eliot","Sinner, Jannik",0,6,6,3,45,69,17,5,8,119,-2,18,36,11,45,63,0,16,65.21739130434783,46.15384615384615,37.5,January 2026
+1878,2026-01-24,Australian Open Women Singles,WTA,"Wang, Xinyu","Noskova, Linda",1,5,4,5,30,40,13,3,6,69,6,15,27,9,26,45,0,5,75.0,46.875,80.0,January 2026
+1879,2026-01-24,Australian Open Women Singles,WTA,"Noskova, Linda","Wang, Xinyu",0,4,2,4,27,37,9,2,7,63,-6,10,21,7,24,37,0,8,72.97297297297297,40.0,25.0,January 2026
+1880,2026-01-24,Australian Open Men Singles,ATP,"Vacherot, Valentin","Shelton, Ben",0,12,0,4,50,63,14,1,5,87,-13,13,24,14,28,63,0,1,79.36507936507937,46.42857142857143,0.0,January 2026
+1881,2026-01-24,Australian Open Men Singles,ATP,"Shelton, Ben","Vacherot, Valentin",1,15,2,1,50,63,19,3,8,100,13,22,32,16,24,72,1,4,79.36507936507937,66.66666666666666,50.0,January 2026
+1882,2026-01-24,"WTA 125K Manila, Philippines Women Singles",WTA 125K,"Alcala, Angeline","Aludo, Stefi Marithe",0,0,0,3,11,27,1,1,2,27,-29,4,8,1,23,15,0,1,40.74074074074074,36.36363636363637,0.0,January 2026
+1883,2026-01-24,"WTA 125K Manila, Philippines Women Singles",WTA 125K,"Aludo, Stefi Marithe","Alcala, Angeline",1,1,5,1,25,31,12,11,8,56,29,4,8,7,11,29,0,9,80.64516129032258,44.44444444444444,55.55555555555556,January 2026
+1884,2026-01-24,Australian Open Women Singles,WTA,"Mertens, Elise","Bartunkova, Nikola",1,8,5,2,27,34,12,6,8,64,23,6,13,7,16,33,0,10,79.41176470588235,40.0,50.0,January 2026
+1885,2026-01-24,Australian Open Women Singles,WTA,"Bartunkova, Nikola","Mertens, Elise",0,1,1,3,21,36,4,1,4,41,-23,4,17,3,31,25,0,2,58.333333333333336,20.0,50.0,January 2026
+1886,2026-01-24,"WTA 125K Manila, Philippines Women Singles",WTA 125K,"Jallorina, Lauraine","Plipuech, Peangtarn",0,0,0,0,0,7,1,1,3,21,-33,2,5,1,24,10,0,2,0.0,40.0,0.0,January 2026
+1887,2026-01-24,"WTA 125K Manila, Philippines Women Singles",WTA 125K,"Plipuech, Peangtarn","Jallorina, Lauraine",1,0,5,0,18,24,12,9,11,54,33,3,2,7,11,30,0,5,75.0,150.0,100.0,January 2026
+1888,2026-01-24,Australian Open Men Singles,ATP,"Wawrinka, Stan","Fritz, Taylor",0,15,2,3,60,70,20,3,6,115,-4,24,41,18,30,84,0,7,85.71428571428571,54.54545454545454,28.57142857142857,January 2026
+1889,2026-01-24,Australian Open Men Singles,ATP,"Fritz, Taylor","Wawrinka, Stan",1,30,2,1,71,84,21,3,6,119,4,18,35,18,31,89,1,7,84.52380952380952,50.0,28.57142857142857,January 2026
+1890,2026-01-24,Australian Open Men Singles,ATP,"Djokovic, Novak","Van de Zandschulp, Botic",1,11,4,6,47,61,19,4,5,112,24,21,29,14,28,68,1,9,77.04918032786885,60.0,44.44444444444444,January 2026
+1891,2026-01-24,Australian Open Men Singles,ATP,"Van de Zandschulp, Botic","Djokovic, Novak",0,15,2,4,45,66,13,2,7,88,-24,15,34,11,44,60,0,7,68.18181818181819,39.473684210526315,28.57142857142857,January 2026
+1892,2026-01-24,Australian Open Women Singles,WTA,"Kalinskaya, Anna","Swiatek, Iga",0,2,3,2,23,48,8,4,9,62,-12,12,18,5,33,35,0,7,47.916666666666664,60.0,42.857142857142854,January 2026
+1893,2026-01-24,Australian Open Women Singles,WTA,"Swiatek, Iga","Kalinskaya, Anna",1,2,5,4,27,42,13,5,6,74,12,14,23,8,27,41,0,11,64.28571428571429,51.85185185185185,45.45454545454545,January 2026
+1894,2026-01-24,Australian Open Men Singles,ATP,"Quinn, Ethan","Mensik, Jakub",0,9,3,7,39,57,14,3,6,97,-14,23,43,11,44,62,0,6,68.42105263157895,46.0,50.0,January 2026
+1895,2026-01-24,Australian Open Men Singles,ATP,"Mensik, Jakub","Quinn, Ethan",1,11,5,8,39,54,20,4,6,111,14,28,41,13,35,67,2,10,72.22222222222223,57.14285714285714,50.0,January 2026
+1896,2026-01-24,Australian Open Women Singles,WTA,"Rybakina, Elena","Valentova, Tereza",1,4,5,1,24,38,12,5,8,68,17,14,22,7,23,38,0,7,63.1578947368421,60.86956521739131,71.42857142857143,January 2026
+1897,2026-01-24,Australian Open Women Singles,WTA,"Valentova, Tereza","Rybakina, Elena",0,4,2,8,19,29,5,2,4,51,-17,9,21,3,30,28,0,9,65.51724137931035,31.03448275862069,22.22222222222222,January 2026
+1898,2026-01-24,Australian Open Men Singles,ATP,"Cilic, Marin","Ruud, Casper",0,18,2,6,51,65,19,3,10,122,-2,31,52,17,41,82,0,10,78.46153846153847,53.44827586206896,20.0,January 2026
+1899,2026-01-24,Australian Open Men Singles,ATP,"Ruud, Casper","Cilic, Marin",1,25,4,4,68,87,22,3,7,124,2,15,32,18,40,83,0,7,78.16091954022988,41.66666666666667,57.14285714285714,January 2026
