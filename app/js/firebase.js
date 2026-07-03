@@ -163,6 +163,8 @@ onAuthStateChanged(auth, async (user) => {
   // Optional: you can show user info here
   if (user && user.emailVerified && !onLoginPage) {
     console.log("Logged in user:", user.email);
+    const token = await user.getIdToken();
+    console.log("User token: ",token)
   }
   console.log("Current user on Auth Guard:", auth.currentUser);
 

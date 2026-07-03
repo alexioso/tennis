@@ -1,0 +1,12 @@
+pandas==2.2.3
+numpy==1.26.4
+requests==2.32.3
+tqdm==4.67.1
+python-dotenv==1.2.1
+rapidfuzz==3.14.3
+scipy==1.15.2
+glicko2==2.1.0
+streamlit==1.53.1
+plotly==6.5.2
+sqlalchemy==2.0.51
+psycopg2-binary==2.9.12

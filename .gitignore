@@ -1,0 +1,9 @@
+*.json
+.env
+src/.env
+src/api_key.txt
+__pycache__/
+tennis/
+data/raw/
+data/prep/
+src/seasons_df.csv
